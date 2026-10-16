@@ -1,5 +1,7 @@
 # Developer handoff
 
+Read the [detailed Arabic PRD](PRD-AR.md) for the complete scope, feature acceptance criteria, template review matrix, quality requirements and staged completion plan. An [editable Word copy](SitoFolio-PRD-AR.docx) is included for sharing.
+
 ## Start here
 
 Read the root README, start the application on port 4180, and open the landing page and `/#templates`. This repository is the current product, including the interface and animation changes from 16 October 2026.

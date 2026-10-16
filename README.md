@@ -44,6 +44,9 @@ Do not replace an existing `.env` when updating a checkout. External service cre
 | `product/tests/` | Automated integration, import, onboarding and motion checks |
 | `prototype/dist/` | Existing editor runtime used by the product server |
 | `docs/DEVELOPER-HANDOFF.md` | Current priorities, review paths and implementation boundaries |
+| `docs/PRD-AR.md` | Detailed Arabic product requirements, acceptance criteria and completion plan |
+
+Arabic product requirements are available as [Markdown](docs/PRD-AR.md) and an [editable Word document](docs/SitoFolio-PRD-AR.docx).
 
 ## Checks
 
