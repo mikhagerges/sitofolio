@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="36" height="36" viewBox="0 0 48 48">
+  <defs>
+    <filter id="glow" x="-100%" y="-100%" width="300%" height="300%" color-interpolation-filters="sRGB">
+      <feDropShadow dx="0" dy="0" stdDeviation="3.4" flood-color="#8ac5ff" flood-opacity=".65"/>
+      <feDropShadow dx="0" dy="0" stdDeviation="1.2" flood-color="#d5eaff" flood-opacity=".8"/>
+    </filter>
+  </defs>
+  <path d="M19 23V11 Q19 7 22 7 Q25 7 25 11V19 Q26 16 28.5 17 Q30 17.5 30 20 Q32 18 34 20 Q35 21 35 23 Q38 22 39 25 L38 32 Q37 38 32 39 H25 Q21 39 18 35 L12 27 Q10 24 12 22 Q14 20 16 22 L19 25Z" fill="#090b0e" stroke="#fff" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round" filter="url(#glow)"/>
+</svg>

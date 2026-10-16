@@ -1,0 +1,1 @@
+export const exampleVisuals={"portrait": "/examples/mikha-streetwear.png", "covers": ["/examples/haza-page-011.jpg", "/examples/hills-page-024.jpg", "/examples/cozy-cover.jpg"], "projects": 14, "files": 210};

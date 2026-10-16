@@ -1,0 +1,12 @@
+{
+  "name": "sitofolio",
+  "version": "0.14.1",
+  "private": true,
+  "description": "SitoFolio portfolio builder — local development beta",
+  "engines": { "node": ">=24.0.0" },
+  "scripts": {
+    "start": "npm --prefix product start",
+    "test": "npm --prefix product test",
+    "worker": "npm --prefix product run worker"
+  }
+}

@@ -1,0 +1,63 @@
+# Share the current product and its editor dependency, not the design archive.
+/*
+!/.gitignore
+!/.gitattributes
+!/README.md
+!/package.json
+!/docs/
+!/product/
+!/prototype/
+
+# Credentials, private workspaces and generated local state.
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+*.sqlite*
+*.db
+*.db-*
+*.log
+*.pid
+__pycache__/
+*.py[cod]
+node_modules/
+.venv/
+.DS_Store
+Thumbs.db
+
+/product/data/
+/product/reference-work/
+/product/.local-history/
+/product/output/
+/product/screenshots/
+/product/*.png
+/product/example-work.json
+/product/TRY-IT.md
+/product/REVIEW-BOARD.md
+/product/reviews/*
+!/product/reviews/*.md
+/product/scripts/*
+!/product/scripts/review-onboarding-server.mjs
+
+# Only the editor runtime is needed from the earlier prototype.
+/prototype/*
+!/prototype/dist/
+!/prototype/COMPATIBILITY.md
+/prototype/dist/assets/*
+!/prototype/dist/assets/Artboard 1.svg
+!/prototype/dist/assets/Artboard 4.svg
+!/prototype/dist/assets/InstrumentSerif-Regular.ttf
+!/prototype/dist/assets/InstrumentSerif-Italic.ttf
+!/prototype/dist/assets/Instrument-Serif-OFL.txt
+!/prototype/dist/assets/creative-cursor.svg
+!/prototype/dist/assets/creative-cursor-link.svg
+!/prototype/dist/assets/alex-portrait.png
+!/prototype/dist/assets/maison-olive.png
+!/prototype/dist/assets/forma-studio.png
+!/prototype/dist/assets/offscript.png
+
+# Retain demo artwork, omit the private portrait generation prompt.
+/product/web/examples/*.txt

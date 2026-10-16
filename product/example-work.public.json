@@ -1,0 +1,4706 @@
+{
+  "owner": "Mikha Gerges",
+  "files": 210,
+  "projects": [
+    {
+      "id": "871ea818-3d41-535a-919d-a33a0eda6d27",
+      "title": "HAZA",
+      "type": "Branding",
+      "client": "HAZA",
+      "year": "2026",
+      "role": "Creative direction & design",
+      "notes": "Brand concept proposal developed with Pro Branding.",
+      "cover": "/examples/haza-page-011.jpg",
+      "alt": "HAZA — complete composition",
+      "status": "Draft",
+      "visibility": "Private",
+      "featured": true,
+      "templateSample": "haza",
+      "sourceFiles": [
+        "example-source-021"
+      ],
+      "blocks": [
+        {
+          "id": "f35e5875-466d-4da0-aba3-c99e807bfab0",
+          "type": "Project Intro",
+          "visible": true,
+          "title": "The collection",
+          "text": "Brand concept proposal developed with Pro Branding."
+        },
+        {
+          "id": "d2a58848-800c-41a1-85ef-59ece103b361",
+          "type": "Process",
+          "visible": true,
+          "title": "The brief & brand strategy",
+          "text": ""
+        },
+        {
+          "id": "864344b2-4780-418a-9a6f-b97146530b51",
+          "type": "Big Image",
+          "visible": true,
+          "image": "/examples/haza-page-001.jpg",
+          "alt": "HAZA — full page 1",
+          "sourcePage": 1
+        },
+        {
+          "id": "111626de-307b-44a6-9c7a-92551169feb6",
+          "type": "Big Image",
+          "visible": true,
+          "image": "/examples/haza-page-002.jpg",
+          "alt": "HAZA — full page 2",
+          "sourcePage": 2
+        },
+        {
+          "id": "b87a5902-b502-4d2e-afb3-cf14f66d41ee",
+          "type": "Big Image",
+          "visible": true,
+          "image": "/examples/haza-page-003.jpg",
+          "alt": "HAZA — full page 3",
+          "sourcePage": 3
+        },
+        {
+          "id": "8f4da3f7-8628-4a7f-9d01-19241aef3e1b",
+          "type": "Process",
+          "visible": true,
+          "title": "Moodboard & creative direction",
+          "text": ""
+        },
+        {
+          "id": "3a83290e-e443-4eee-bf52-79ffa99fd298",
+          "type": "Big Image",
+          "visible": true,
+          "image": "/examples/haza-page-004.jpg",
+          "alt": "HAZA — full page 4",
+          "sourcePage": 4
+        },
+        {
+          "id": "179fdc4e-dab2-4447-b577-345956d05ff8",
+          "type": "Big Image",
+          "visible": true,
+          "image": "/examples/haza-page-005.jpg",
+          "alt": "HAZA — full page 5",
+          "sourcePage": 5
+        },
+        {
+          "id": "52652c20-b436-43fe-8580-c553047d0d8c",
+          "type": "Big Image",
+          "visible": true,
+          "image": "/examples/haza-page-006.jpg",
+          "alt": "HAZA — full page 6",
+          "sourcePage": 6
+        },
+        {
+          "id": "e60a4e98-f900-421f-b2cf-f918c873002c",
+          "type": "Big Image",
+          "visible": true,
+          "image": "/examples/haza-page-007.jpg",
+          "alt": "HAZA — full page 7",
+          "sourcePage": 7
+        },
+        {
+          "id": "d423eef2-cb2d-47d0-ac25-b534ac73e0e8",
+          "type": "Big Image",
+          "visible": true,
+          "image": "/examples/haza-page-008.jpg",
+          "alt": "HAZA — full page 8",
+          "sourcePage": 8
+        },
+        {
+          "id": "0ff7a76a-035f-4c35-921b-7e321e641396",
+          "type": "Big Image",
+          "visible": true,
+          "image": "/examples/haza-page-009.jpg",
+          "alt": "HAZA — full page 9",
+          "sourcePage": 9
+        },
+        {
+          "id": "29da5a78-36d4-4fc3-90e6-6d6b9f5f0e08",
+          "type": "Big Image",
+          "visible": true,
+          "image": "/examples/haza-page-010.jpg",
+          "alt": "HAZA — full page 10",
+          "sourcePage": 10
+        },
+        {
+          "id": "6c57aa42-b7d7-4f43-a69a-69afee438067",
+          "type": "Process",
+          "visible": true,
+          "title": "Logo development",
+          "text": ""
+        },
+        {
+          "id": "6fd253b9-284b-41d9-8514-8b33bbc59a76",
+          "type": "Big Image",
+          "visible": true,
+          "image": "/examples/haza-page-011.jpg",
+          "alt": "HAZA — full page 11",
+          "sourcePage": 11
+        },
+        {
+          "id": "a9d9171f-513e-4ed7-955c-fec2ab9b754b",
+          "type": "Big Image",
+          "visible": true,
+          "image": "/examples/haza-page-012.jpg",
+          "alt": "HAZA — full page 12",
+          "sourcePage": 12
+        },
+        {
+          "id": "230fa0a0-99bd-4aaa-9054-acc9000f8219",
+          "type": "Big Image",
+          "visible": true,
+          "image": "/examples/haza-page-013.jpg",
+          "alt": "HAZA — full page 13",
+          "sourcePage": 13
+        },
+        {
+          "id": "4ea520ef-ed37-437b-84f2-f63f053943bc",
+          "type": "Big Image",
+          "visible": true,
+          "image": "/examples/haza-page-014.jpg",
+          "alt": "HAZA — full page 14",
+          "sourcePage": 14
+        },
+        {
+          "id": "a6f0f993-e495-4505-ba1e-1a607685ad0d",
+          "type": "Big Image",
+          "visible": true,
+          "image": "/examples/haza-page-015.jpg",
+          "alt": "HAZA — full page 15",
+          "sourcePage": 15
+        },
+        {
+          "id": "0dad4b28-5ddc-4710-865f-e2fffe73815c",
+          "type": "Process",
+          "visible": true,
+          "title": "Identity in context",
+          "text": ""
+        },
+        {
+          "id": "45e28709-cbc1-4da2-956f-53210672550e",
+          "type": "Big Image",
+          "visible": true,
+          "image": "/examples/haza-page-016.jpg",
+          "alt": "HAZA — full page 16",
+          "sourcePage": 16
+        },
+        {
+          "id": "47bd97d7-33b7-4b70-a18c-463a1d796bbd",
+          "type": "Big Image",
+          "visible": true,
+          "image": "/examples/haza-page-017.jpg",
+          "alt": "HAZA — full page 17",
+          "sourcePage": 17
+        },
+        {
+          "id": "5cd76ff3-b446-4e15-825d-336d1196f85d",
+          "type": "Big Image",
+          "visible": true,
+          "image": "/examples/haza-page-018.jpg",
+          "alt": "HAZA — full page 18",
+          "sourcePage": 18
+        },
+        {
+          "id": "b234f161-59da-44f6-9576-c284a7e9dc1d",
+          "type": "Big Image",
+          "visible": true,
+          "image": "/examples/haza-page-019.jpg",
+          "alt": "HAZA — full page 19",
+          "sourcePage": 19
+        },
+        {
+          "id": "7a919f5d-a135-4fff-8f46-5300b011dbcb",
+          "type": "Big Image",
+          "visible": true,
+          "image": "/examples/haza-page-020.jpg",
+          "alt": "HAZA — full page 20",
+          "sourcePage": 20
+        },
+        {
+          "id": "b3d89732-b281-4940-b712-ee2697f9c3ca",
+          "type": "Process",
+          "visible": true,
+          "title": "Sinai — a distinct visual world",
+          "text": ""
+        },
+        {
+          "id": "bb57356a-ff0d-42ab-b9d5-48b7d8afe457",
+          "type": "Big Image",
+          "visible": true,
+          "image": "/examples/haza-page-021.jpg",
+          "alt": "HAZA — full page 21",
+          "sourcePage": 21
+        },
+        {
+          "id": "7073f34a-aa14-4937-a2b0-59eef2ca7346",
+          "type": "Big Image",
+          "visible": true,
+          "image": "/examples/haza-page-022.jpg",
+          "alt": "HAZA — full page 22",
+          "sourcePage": 22
+        },
+        {
+          "id": "c2bf69a1-ffb3-4b1c-9a1b-bf5147c9d269",
+          "type": "Big Image",
+          "visible": true,
+          "image": "/examples/haza-page-023.jpg",
+          "alt": "HAZA — full page 23",
+          "sourcePage": 23
+        },
+        {
+          "id": "03fb8d87-8498-4180-8be8-78679c6b7098",
+          "type": "Big Image",
+          "visible": true,
+          "image": "/examples/haza-page-024.jpg",
+          "alt": "HAZA — full page 24",
+          "sourcePage": 24
+        },
+        {
+          "id": "424ba779-1017-4616-98bd-f0c868349dd3",
+          "type": "Big Image",
+          "visible": true,
+          "image": "/examples/haza-page-025.jpg",
+          "alt": "HAZA — full page 25",
+          "sourcePage": 25
+        },
+        {
+          "id": "4b28492f-3bb8-46ee-9723-6de93ee3f41e",
+          "type": "Process",
+          "visible": true,
+          "title": "Closing the concept",
+          "text": ""
+        },
+        {
+          "id": "7bf3b805-587f-49b7-b46a-7d61398eb4cf",
+          "type": "Big Image",
+          "visible": true,
+          "image": "/examples/haza-page-026.jpg",
+          "alt": "HAZA — full page 26",
+          "sourcePage": 26
+        },
+        {
+          "id": "7403a1f3-a639-49d2-8d7f-8d866c8ea061",
+          "type": "Big Image",
+          "visible": true,
+          "image": "/examples/haza-page-027.jpg",
+          "alt": "HAZA — full page 27",
+          "sourcePage": 27
+        },
+        {
+          "id": "d1fceb39-ab02-4226-9519-68cc38e4058f",
+          "type": "Credits / Team",
+          "visible": true,
+          "title": "Creative direction & design",
+          "text": "Mikha Gerges. Presented from the original supplied files; no invented client results."
+        },
+        {
+          "id": "c923c1c1-b5e9-43dc-83a0-082fa59d305f",
+          "type": "Next Project",
+          "visible": true
+        }
+      ]
+    },
+    {
+      "id": "ee544a55-7439-557e-aabe-c851b4fad513",
+      "title": "Hills Coffee",
+      "type": "Branding",
+      "client": "Hills Coffee",
+      "year": "2026",
+      "role": "Creative direction & design",
+      "notes": "A complete brand guidelines presentation.",
+      "cover": "/examples/hills-page-024.jpg",
+      "alt": "Hills Coffee — complete composition",
+      "status": "Draft",
+      "visibility": "Private",
+      "featured": true,
+      "templateSample": "hills",
+      "sourceFiles": [
+        "example-source-114"
+      ],
+      "blocks": [
+        {
+          "id": "b391232e-33dc-43bb-a471-19aecbd5b413",
+          "type": "Project Intro",
+          "visible": true,
+          "title": "The collection",
+          "text": "A complete brand guidelines presentation."
+        },
+        {
+          "id": "31ddaf60-25f3-44e6-8cef-75326def83d2",
+          "type": "Process",
+          "visible": true,
+          "title": "Brand guidelines",
+          "text": ""
+        },
+        {
+          "id": "ea80bad3-8138-43b7-97bf-843ce3dc3cae",
+          "type": "Big Image",
+          "visible": true,
+          "image": "/examples/hills-page-001.jpg",
+          "alt": "Hills Coffee — full page 1",
+          "sourcePage": 1
+        },
+        {
+          "id": "9ea26eb3-1c9b-4849-bed1-96ac259d8a14",
+          "type": "Big Image",
+          "visible": true,
+          "image": "/examples/hills-page-002.jpg",
+          "alt": "Hills Coffee — full page 2",
+          "sourcePage": 2
+        },
+        {
+          "id": "8520a3b1-dbda-471d-90dc-54c5c1c16c5c",
+          "type": "Process",
+          "visible": true,
+          "title": "Introduction",
+          "text": ""
+        },
+        {
+          "id": "cb803bae-70e2-4680-8d55-f376bb85491b",
+          "type": "Big Image",
+          "visible": true,
+          "image": "/examples/hills-page-003.jpg",
+          "alt": "Hills Coffee — full page 3",
+          "sourcePage": 3
+        },
+        {
+          "id": "f13d3a24-d669-47fd-bfa4-fdcf3ec9aad5",
+          "type": "Big Image",
+          "visible": true,
+          "image": "/examples/hills-page-004.jpg",
+          "alt": "Hills Coffee — full page 4",
+          "sourcePage": 4
+        },
+        {
+          "id": "77ca4ea2-3db7-44f9-8830-b04e79a4c3bd",
+          "type": "Process",
+          "visible": true,
+          "title": "Our logo",
+          "text": ""
+        },
+        {
+          "id": "555885a2-08e4-4af1-8542-d8a8471c90f6",
+          "type": "Big Image",
+          "visible": true,
+          "image": "/examples/hills-page-005.jpg",
+          "alt": "Hills Coffee — full page 5",
+          "sourcePage": 5
+        },
+        {
+          "id": "de26c86b-d572-4af7-8491-c351198049a7",
+          "type": "Big Image",
+          "visible": true,
+          "image": "/examples/hills-page-006.jpg",
+          "alt": "Hills Coffee — full page 6",
+          "sourcePage": 6
+        },
+        {
+          "id": "d8e77ccc-f92f-4972-9d8c-1dcc3f481572",
+          "type": "Big Image",
+          "visible": true,
+          "image": "/examples/hills-page-007.jpg",
+          "alt": "Hills Coffee — full page 7",
+          "sourcePage": 7
+        },
+        {
+          "id": "5b175904-38d9-43c6-806d-e7906e3a52b6",
+          "type": "Big Image",
+          "visible": true,
+          "image": "/examples/hills-page-008.jpg",
+          "alt": "Hills Coffee — full page 8",
+          "sourcePage": 8
+        },
+        {
+          "id": "23fbc61e-4926-48b7-826f-5557fbdc98df",
+          "type": "Big Image",
+          "visible": true,
+          "image": "/examples/hills-page-009.jpg",
+          "alt": "Hills Coffee — full page 9",
+          "sourcePage": 9
+        },
+        {
+          "id": "2da46b6c-7955-4a8d-b57a-0e3e91c28b2a",
+          "type": "Big Image",
+          "visible": true,
+          "image": "/examples/hills-page-010.jpg",
+          "alt": "Hills Coffee — full page 10",
+          "sourcePage": 10
+        },
+        {
+          "id": "42f23484-5ba5-42ad-b432-bb530e7ac3fc",
+          "type": "Big Image",
+          "visible": true,
+          "image": "/examples/hills-page-011.jpg",
+          "alt": "Hills Coffee — full page 11",
+          "sourcePage": 11
+        },
+        {
+          "id": "258481ac-9208-45ea-9970-be955e426f24",
+          "type": "Big Image",
+          "visible": true,
+          "image": "/examples/hills-page-012.jpg",
+          "alt": "Hills Coffee — full page 12",
+          "sourcePage": 12
+        },
+        {
+          "id": "3f4012ab-c694-4ae0-9c3b-3098453371fa",
+          "type": "Big Image",
+          "visible": true,
+          "image": "/examples/hills-page-013.jpg",
+          "alt": "Hills Coffee — full page 13",
+          "sourcePage": 13
+        },
+        {
+          "id": "820fa5c8-b3d4-4cd6-a3e8-c1f166293592",
+          "type": "Big Image",
+          "visible": true,
+          "image": "/examples/hills-page-014.jpg",
+          "alt": "Hills Coffee — full page 14",
+          "sourcePage": 14
+        },
+        {
+          "id": "be2df015-274d-456c-9d9d-d744b1a38104",
+          "type": "Process",
+          "visible": true,
+          "title": "Color palette",
+          "text": ""
+        },
+        {
+          "id": "b7ed6031-a2d0-4515-98ae-430c1b5f2f62",
+          "type": "Big Image",
+          "visible": true,
+          "image": "/examples/hills-page-015.jpg",
+          "alt": "Hills Coffee — full page 15",
+          "sourcePage": 15
+        },
+        {
+          "id": "6f2d255f-1bd8-4cf5-9873-6cd7f9a2f4d2",
+          "type": "Big Image",
+          "visible": true,
+          "image": "/examples/hills-page-016.jpg",
+          "alt": "Hills Coffee — full page 16",
+          "sourcePage": 16
+        },
+        {
+          "id": "ec16f50d-4863-4426-8b30-ada268b40990",
+          "type": "Process",
+          "visible": true,
+          "title": "Typography",
+          "text": ""
+        },
+        {
+          "id": "e907f584-1bac-491e-8da1-5013dd2a4f03",
+          "type": "Big Image",
+          "visible": true,
+          "image": "/examples/hills-page-017.jpg",
+          "alt": "Hills Coffee — full page 17",
+          "sourcePage": 17
+        },
+        {
+          "id": "af89c5e8-3ec5-46b7-a70f-7cbcf850a9cc",
+          "type": "Big Image",
+          "visible": true,
+          "image": "/examples/hills-page-018.jpg",
+          "alt": "Hills Coffee — full page 18",
+          "sourcePage": 18
+        },
+        {
+          "id": "d61be7a5-75a3-4301-a2c9-a8c69801bd31",
+          "type": "Big Image",
+          "visible": true,
+          "image": "/examples/hills-page-019.jpg",
+          "alt": "Hills Coffee — full page 19",
+          "sourcePage": 19
+        },
+        {
+          "id": "5f419bad-b07b-403a-a66c-910f69dd2f0c",
+          "type": "Big Image",
+          "visible": true,
+          "image": "/examples/hills-page-020.jpg",
+          "alt": "Hills Coffee — full page 20",
+          "sourcePage": 20
+        },
+        {
+          "id": "40aab8e3-2e37-43da-9a31-d5205d9625ba",
+          "type": "Process",
+          "visible": true,
+          "title": "Visual system",
+          "text": ""
+        },
+        {
+          "id": "63e660c3-934c-4256-b9a0-d0a5558bd7e2",
+          "type": "Big Image",
+          "visible": true,
+          "image": "/examples/hills-page-021.jpg",
+          "alt": "Hills Coffee — full page 21",
+          "sourcePage": 21
+        },
+        {
+          "id": "3b528435-0c7f-4d5c-b4fb-631d9f5ea2f1",
+          "type": "Big Image",
+          "visible": true,
+          "image": "/examples/hills-page-022.jpg",
+          "alt": "Hills Coffee — full page 22",
+          "sourcePage": 22
+        },
+        {
+          "id": "43fdffa9-eab7-4c03-9f01-137d932fca9b",
+          "type": "Big Image",
+          "visible": true,
+          "image": "/examples/hills-page-023.jpg",
+          "alt": "Hills Coffee — full page 23",
+          "sourcePage": 23
+        },
+        {
+          "id": "1d21e879-4f67-4082-94e6-281998d0a3e1",
+          "type": "Big Image",
+          "visible": true,
+          "image": "/examples/hills-page-024.jpg",
+          "alt": "Hills Coffee — full page 24",
+          "sourcePage": 24
+        },
+        {
+          "id": "54489919-6950-4bf3-849f-edbd1682d1c4",
+          "type": "Process",
+          "visible": true,
+          "title": "Imagery",
+          "text": ""
+        },
+        {
+          "id": "e07cd02c-9449-46c8-bc5c-91c78778337a",
+          "type": "Big Image",
+          "visible": true,
+          "image": "/examples/hills-page-025.jpg",
+          "alt": "Hills Coffee — full page 25",
+          "sourcePage": 25
+        },
+        {
+          "id": "57cedd51-aa68-490f-a6d6-6e8503bdb153",
+          "type": "Big Image",
+          "visible": true,
+          "image": "/examples/hills-page-026.jpg",
+          "alt": "Hills Coffee — full page 26",
+          "sourcePage": 26
+        },
+        {
+          "id": "54518bcf-6fbb-46af-8f24-d3a91e6f1b6a",
+          "type": "Big Image",
+          "visible": true,
+          "image": "/examples/hills-page-027.jpg",
+          "alt": "Hills Coffee — full page 27",
+          "sourcePage": 27
+        },
+        {
+          "id": "fb15b0f3-c7de-464e-87b2-cf44b3d2217d",
+          "type": "Big Image",
+          "visible": true,
+          "image": "/examples/hills-page-028.jpg",
+          "alt": "Hills Coffee — full page 28",
+          "sourcePage": 28
+        },
+        {
+          "id": "73da633d-9f42-4ebe-b5b3-7e2a428354cd",
+          "type": "Credits / Team",
+          "visible": true,
+          "title": "Creative direction & design",
+          "text": "Mikha Gerges. Presented from the original supplied files; no invented client results."
+        },
+        {
+          "id": "2ffcb464-ab5b-4ff4-9e60-dc831775cd22",
+          "type": "Next Project",
+          "visible": true
+        }
+      ]
+    },
+    {
+      "id": "66368092-fb78-5b55-b75b-7befd06c8ec4",
+      "title": "Cozy Cafe",
+      "type": "Branding",
+      "client": "Cozy Cafe",
+      "year": "",
+      "role": "Creative direction & design",
+      "notes": "A complete cafe identity presentation.",
+      "cover": "/examples/cozy-cover.jpg",
+      "alt": "Cozy Cafe — complete composition",
+      "status": "Draft",
+      "visibility": "Private",
+      "featured": true,
+      "templateSample": "cozy",
+      "sourceFiles": [
+        "example-source-101"
+      ],
+      "blocks": [
+        {
+          "id": "65d7edb6-6c2b-4326-8e7e-49790168ffb0",
+          "type": "Project Intro",
+          "visible": true,
+          "title": "The collection",
+          "text": "A complete cafe identity presentation."
+        },
+        {
+          "id": "17485b52-2d4e-4591-8888-11dea68e57fc",
+          "type": "Process",
+          "visible": true,
+          "title": "The complete brand presentation",
+          "text": ""
+        },
+        {
+          "id": "e8897ad4-4deb-498e-b9a0-fbfca3797c4e",
+          "type": "Big Image",
+          "visible": true,
+          "image": "/examples/cozy-page-001.jpg",
+          "alt": "Cozy Cafe — full page 1",
+          "sourcePage": 1
+        },
+        {
+          "id": "51f90d52-f34f-41bf-9463-f83cb5288ac0",
+          "type": "Credits / Team",
+          "visible": true,
+          "title": "Creative direction & design",
+          "text": "Mikha Gerges. Presented from the original supplied files; no invented client results."
+        },
+        {
+          "id": "4b066618-a491-4a81-8439-8cd99876a75a",
+          "type": "Next Project",
+          "visible": true
+        }
+      ]
+    },
+    {
+      "id": "880f5181-2bbf-59f9-bf98-08942a83238f",
+      "title": "1718 Coffee",
+      "type": "Art direction",
+      "client": "1718 Coffee",
+      "year": "2026",
+      "role": "Creative direction & design",
+      "notes": "Three creative options: two static directions and a carousel, prepared for SPECMEDIA.",
+      "cover": "/examples/1718-page-001.jpg",
+      "alt": "1718 Coffee — complete composition",
+      "status": "Draft",
+      "visibility": "Private",
+      "featured": true,
+      "templateSample": "1718",
+      "sourceFiles": [
+        "example-source-090"
+      ],
+      "blocks": [
+        {
+          "id": "d1e26187-0615-4213-a2b3-575f42e964a7",
+          "type": "Project Intro",
+          "visible": true,
+          "title": "The collection",
+          "text": "Three creative options: two static directions and a carousel, prepared for SPECMEDIA."
+        },
+        {
+          "id": "5dcd130d-91a9-463e-9bfa-2b46050d1a35",
+          "type": "Process",
+          "visible": true,
+          "title": "The creative brief",
+          "text": ""
+        },
+        {
+          "id": "a3c647a7-d165-481d-826e-70f2a8dbfe85",
+          "type": "Big Image",
+          "visible": true,
+          "image": "/examples/1718-page-001.jpg",
+          "alt": "1718 Coffee — full page 1",
+          "sourcePage": 1
+        },
+        {
+          "id": "d37f74a4-efd7-46ab-9881-e348a309b706",
+          "type": "Process",
+          "visible": true,
+          "title": "Static direction",
+          "text": ""
+        },
+        {
+          "id": "c18a54c7-8413-4a3d-bc9e-63fdcdde3c42",
+          "type": "Big Image",
+          "visible": true,
+          "image": "/examples/1718-page-002.jpg",
+          "alt": "1718 Coffee — full page 2",
+          "sourcePage": 2
+        },
+        {
+          "id": "85bbf893-c48a-41ef-b879-6e4e5d00fdcc",
+          "type": "Big Image",
+          "visible": true,
+          "image": "/examples/1718-page-003.jpg",
+          "alt": "1718 Coffee — full page 3",
+          "sourcePage": 3
+        },
+        {
+          "id": "1fed9b89-127e-42f1-b481-e841e8a2e53d",
+          "type": "Process",
+          "visible": true,
+          "title": "Carousel direction",
+          "text": ""
+        },
+        {
+          "id": "43e83243-9258-4dea-bbb3-a0417fcb646b",
+          "type": "Big Image",
+          "visible": true,
+          "image": "/examples/1718-page-004.jpg",
+          "alt": "1718 Coffee — full page 4",
+          "sourcePage": 4
+        },
+        {
+          "id": "4945412d-61c8-43d1-a420-2df88106cfce",
+          "type": "Big Image",
+          "visible": true,
+          "image": "/examples/1718-page-005.jpg",
+          "alt": "1718 Coffee — full page 5",
+          "sourcePage": 5
+        },
+        {
+          "id": "bc3b8def-e1f3-432e-8588-8ae6d24cd06f",
+          "type": "Credits / Team",
+          "visible": true,
+          "title": "Creative direction & design",
+          "text": "Mikha Gerges. Presented from the original supplied files; no invented client results."
+        },
+        {
+          "id": "d6350c58-eaea-410c-a34c-6f67b384c478",
+          "type": "Next Project",
+          "visible": true
+        }
+      ]
+    },
+    {
+      "id": "c5a005af-bd9c-5409-8c9d-a29724aef745",
+      "title": "Cafe campaigns",
+      "type": "Social media",
+      "client": "",
+      "year": "",
+      "role": "Creative direction & design",
+      "notes": "An ordered collection of 33 supplied visuals, following the original project folder.",
+      "cover": "/examples/cafe-001.jpg",
+      "alt": "Cafe campaigns — complete composition",
+      "status": "Draft",
+      "visibility": "Private",
+      "featured": true,
+      "templateSample": "cafe",
+      "sourceFiles": [
+        "example-source-055",
+        "example-source-143",
+        "example-source-063",
+        "example-source-201",
+        "example-source-130",
+        "example-source-017",
+        "example-source-136",
+        "example-source-036",
+        "example-source-166",
+        "example-source-010",
+        "example-source-105",
+        "example-source-209",
+        "example-source-124",
+        "example-source-203",
+        "example-source-034",
+        "example-source-011",
+        "example-source-131",
+        "example-source-016",
+        "example-source-081",
+        "example-source-159",
+        "example-source-116",
+        "example-source-106",
+        "example-source-185",
+        "example-source-197",
+        "example-source-042",
+        "example-source-205",
+        "example-source-025",
+        "example-source-035",
+        "example-source-054",
+        "example-source-048",
+        "example-source-167",
+        "example-source-155",
+        "example-source-079"
+      ],
+      "blocks": [
+        {
+          "id": "e4fb8552-9959-4735-937c-d0b2a970cf56",
+          "type": "Project Intro",
+          "visible": true,
+          "title": "The collection",
+          "text": "An ordered collection of 33 supplied visuals, following the original project folder."
+        },
+        {
+          "id": "9a9f03ba-fc67-442c-a963-2e415c24f913",
+          "type": "Big Image",
+          "visible": true,
+          "image": "/examples/cafe-001.jpg",
+          "alt": "37 GIF Drink falling copy.jpg",
+          "sourceName": "37 GIF Drink falling copy.jpg"
+        },
+        {
+          "id": "da7cfe64-bf98-49a2-b1e9-34f196354916",
+          "type": "Hosted Video",
+          "visible": true,
+          "url": "/examples/cafe-002.mp4",
+          "title": "37 GIF Drink falling.mp4",
+          "text": "",
+          "alt": "37 GIF Drink falling.mp4"
+        },
+        {
+          "id": "ed31207d-a605-416a-8359-53bede85ae20",
+          "type": "Big Image",
+          "visible": true,
+          "image": "/examples/cafe-003.jpg",
+          "alt": "Artboard 1 (1).png",
+          "sourceName": "Artboard 1 (1).png"
+        },
+        {
+          "id": "dd77b2c7-8cf4-4c94-be29-072739810a82",
+          "type": "Big Image",
+          "visible": true,
+          "image": "/examples/cafe-004.jpg",
+          "alt": "Artboard 1 (1).png",
+          "sourceName": "Artboard 1 (1).png"
+        },
+        {
+          "id": "c83eb1f5-3b68-49e3-bf59-8e5ac3522d70",
+          "type": "Big Image",
+          "visible": true,
+          "image": "/examples/cafe-005.jpg",
+          "alt": "Artboard 1 (2).png",
+          "sourceName": "Artboard 1 (2).png"
+        },
+        {
+          "id": "0ab03bcd-3259-4150-b317-5a45e073b0d7",
+          "type": "Big Image",
+          "visible": true,
+          "image": "/examples/cafe-006.jpg",
+          "alt": "Artboard 1.png",
+          "sourceName": "Artboard 1.png"
+        },
+        {
+          "id": "a2756cbd-59ce-408e-96e2-94355fc4228c",
+          "type": "Big Image",
+          "visible": true,
+          "image": "/examples/cafe-007.jpg",
+          "alt": "Artboard 1.png",
+          "sourceName": "Artboard 1.png"
+        },
+        {
+          "id": "46328def-832f-4655-9c8e-3e83da779fd4",
+          "type": "Big Image",
+          "visible": true,
+          "image": "/examples/cafe-008.jpg",
+          "alt": "Artboard 2 (1).png",
+          "sourceName": "Artboard 2 (1).png"
+        },
+        {
+          "id": "9d6c7b57-6f5f-47a2-b3db-e1ab53c48218",
+          "type": "Big Image",
+          "visible": true,
+          "image": "/examples/cafe-009.jpg",
+          "alt": "Artboard 2 (1).png",
+          "sourceName": "Artboard 2 (1).png"
+        },
+        {
+          "id": "47b58949-6e71-4ca6-aa5e-628e47d45e80",
+          "type": "Big Image",
+          "visible": true,
+          "image": "/examples/cafe-010.jpg",
+          "alt": "Artboard 2 (2).png",
+          "sourceName": "Artboard 2 (2).png"
+        },
+        {
+          "id": "cc45da02-496a-4ac8-af2a-1dc44dab108b",
+          "type": "Big Image",
+          "visible": true,
+          "image": "/examples/cafe-011.jpg",
+          "alt": "Artboard 2.png",
+          "sourceName": "Artboard 2.png"
+        },
+        {
+          "id": "f2a11316-a801-441b-8a70-8e0c684fbee9",
+          "type": "Big Image",
+          "visible": true,
+          "image": "/examples/cafe-012.jpg",
+          "alt": "Artboard 2.png",
+          "sourceName": "Artboard 2.png"
+        },
+        {
+          "id": "e11dd144-36e4-4ec0-97d3-2656582f693b",
+          "type": "Big Image",
+          "visible": true,
+          "image": "/examples/cafe-013.jpg",
+          "alt": "Artboard 3 (1).png",
+          "sourceName": "Artboard 3 (1).png"
+        },
+        {
+          "id": "12c3ec60-4348-4d5f-a5c3-8b3d4a415e6c",
+          "type": "Big Image",
+          "visible": true,
+          "image": "/examples/cafe-014.jpg",
+          "alt": "Artboard 3 (1).png",
+          "sourceName": "Artboard 3 (1).png"
+        },
+        {
+          "id": "2da04358-ab3c-4d8b-b1aa-348fed61958d",
+          "type": "Big Image",
+          "visible": true,
+          "image": "/examples/cafe-015.jpg",
+          "alt": "Artboard 3 (2).png",
+          "sourceName": "Artboard 3 (2).png"
+        },
+        {
+          "id": "257b65f9-120d-4fa5-9139-5c6d410cdf15",
+          "type": "Big Image",
+          "visible": true,
+          "image": "/examples/cafe-016.jpg",
+          "alt": "Artboard 3.png",
+          "sourceName": "Artboard 3.png"
+        },
+        {
+          "id": "b7ad0731-800c-468a-9d3d-539d8b330f08",
+          "type": "Big Image",
+          "visible": true,
+          "image": "/examples/cafe-017.jpg",
+          "alt": "Artboard 3.png",
+          "sourceName": "Artboard 3.png"
+        },
+        {
+          "id": "3eebb210-c959-47ef-9bc8-048fa8a85f04",
+          "type": "Big Image",
+          "visible": true,
+          "image": "/examples/cafe-018.jpg",
+          "alt": "Artboard 4 (1).png",
+          "sourceName": "Artboard 4 (1).png"
+        },
+        {
+          "id": "dbefd109-3513-4b1e-9f4f-21d5b142b06b",
+          "type": "Big Image",
+          "visible": true,
+          "image": "/examples/cafe-019.jpg",
+          "alt": "Artboard 4 (1).png",
+          "sourceName": "Artboard 4 (1).png"
+        },
+        {
+          "id": "4aa9f5d7-1746-4f78-ad59-3652c880ec39",
+          "type": "Big Image",
+          "visible": true,
+          "image": "/examples/cafe-020.jpg",
+          "alt": "Artboard 4 (1).png",
+          "sourceName": "Artboard 4 (1).png"
+        },
+        {
+          "id": "74f6bd46-406a-4109-9fb7-819358de7d6b",
+          "type": "Big Image",
+          "visible": true,
+          "image": "/examples/cafe-021.jpg",
+          "alt": "Artboard 4.png",
+          "sourceName": "Artboard 4.png"
+        },
+        {
+          "id": "c969c6da-8ea5-497f-9274-b48ae4e7b172",
+          "type": "Big Image",
+          "visible": true,
+          "image": "/examples/cafe-022.jpg",
+          "alt": "Artboard 5 (1).png",
+          "sourceName": "Artboard 5 (1).png"
+        },
+        {
+          "id": "55eaab03-396b-4b26-bf03-66090a398cbf",
+          "type": "Big Image",
+          "visible": true,
+          "image": "/examples/cafe-023.jpg",
+          "alt": "Artboard 5.png",
+          "sourceName": "Artboard 5.png"
+        },
+        {
+          "id": "960186cb-9d38-4ed2-8cd6-2cd5c3940973",
+          "type": "Big Image",
+          "visible": true,
+          "image": "/examples/cafe-024.jpg",
+          "alt": "Artboard 5.png",
+          "sourceName": "Artboard 5.png"
+        },
+        {
+          "id": "d9fe72b4-57a1-4d6a-afb3-e8831e254e95",
+          "type": "Big Image",
+          "visible": true,
+          "image": "/examples/cafe-025.jpg",
+          "alt": "Artboard 6.png",
+          "sourceName": "Artboard 6.png"
+        },
+        {
+          "id": "2782cae1-92e7-49a9-b119-dc1b8f90ff7f",
+          "type": "Big Image",
+          "visible": true,
+          "image": "/examples/cafe-026.jpg",
+          "alt": "Artboard 6.png",
+          "sourceName": "Artboard 6.png"
+        },
+        {
+          "id": "9dcfb91c-14f0-45cc-8c20-e32f9d17df15",
+          "type": "Big Image",
+          "visible": true,
+          "image": "/examples/cafe-027.jpg",
+          "alt": "Artboard 7.png",
+          "sourceName": "Artboard 7.png"
+        },
+        {
+          "id": "e302dc42-658c-417f-a55d-60881774493a",
+          "type": "Big Image",
+          "visible": true,
+          "image": "/examples/cafe-028.jpg",
+          "alt": "Be Honest.png",
+          "sourceName": "Be Honest.png"
+        },
+        {
+          "id": "cc8e2245-3c8e-4475-92eb-edc708a34985",
+          "type": "Big Image",
+          "visible": true,
+          "image": "/examples/cafe-029.jpg",
+          "alt": "COFFEE IS MORE THAN A DRINK. copy.jpg",
+          "sourceName": "COFFEE IS MORE THAN A DRINK. copy.jpg"
+        },
+        {
+          "id": "e0105ac3-5b4d-4687-861c-71f8dba0f062",
+          "type": "Big Image",
+          "visible": true,
+          "image": "/examples/cafe-030.jpg",
+          "alt": "POST 4.png",
+          "sourceName": "POST 4.png"
+        },
+        {
+          "id": "8c34783c-3e80-472b-bccf-8e86e6b81ce8",
+          "type": "Big Image",
+          "visible": true,
+          "image": "/examples/cafe-031.jpg",
+          "alt": "POST 5.png",
+          "sourceName": "POST 5.png"
+        },
+        {
+          "id": "50b2478c-83b7-4cb3-b0ae-794d6023f057",
+          "type": "Hosted Video",
+          "visible": true,
+          "url": "/examples/cafe-032.mp4",
+          "title": "Reel Don't Blink.mp4",
+          "text": "",
+          "alt": "Reel Don't Blink.mp4"
+        },
+        {
+          "id": "23b93927-7713-4394-a2a8-485189fec128",
+          "type": "Big Image",
+          "visible": true,
+          "image": "/examples/cafe-033.jpg",
+          "alt": "The wait will be worth it story copy.jpg",
+          "sourceName": "The wait will be worth it story copy.jpg"
+        },
+        {
+          "id": "ed6289db-1336-4580-9363-991ea0f4a2ef",
+          "type": "Credits / Team",
+          "visible": true,
+          "title": "Creative direction & design",
+          "text": "Mikha Gerges. Presented from the original supplied files; no invented client results."
+        },
+        {
+          "id": "a63752c7-6b44-4240-9cd3-89f0407450ee",
+          "type": "Next Project",
+          "visible": true
+        }
+      ]
+    },
+    {
+      "id": "2fe76079-a345-5779-b919-fb7dba1cdf38",
+      "title": "Coffee Beans",
+      "type": "Social media",
+      "client": "",
+      "year": "",
+      "role": "Creative direction & design",
+      "notes": "An ordered collection of 6 supplied visuals, following the original project folder.",
+      "cover": "/examples/coffee-beans-001.jpg",
+      "alt": "Coffee Beans — complete composition",
+      "status": "Draft",
+      "visibility": "Private",
+      "featured": true,
+      "templateSample": "coffee-beans",
+      "sourceFiles": [
+        "example-source-154",
+        "example-source-094",
+        "example-source-088",
+        "example-source-199",
+        "example-source-019",
+        "example-source-117"
+      ],
+      "blocks": [
+        {
+          "id": "84321916-6a21-4244-bfe3-46f783ac6236",
+          "type": "Project Intro",
+          "visible": true,
+          "title": "The collection",
+          "text": "An ordered collection of 6 supplied visuals, following the original project folder."
+        },
+        {
+          "id": "dacea742-9915-4c9d-b6c8-c2cf0b6c5f8f",
+          "type": "Big Image",
+          "visible": true,
+          "image": "/examples/coffee-beans-001.jpg",
+          "alt": "1.jpg",
+          "sourceName": "1.jpg"
+        },
+        {
+          "id": "e637b78e-79d8-48b5-8f13-0783f136b973",
+          "type": "Big Image",
+          "visible": true,
+          "image": "/examples/coffee-beans-002.jpg",
+          "alt": "2.jpg",
+          "sourceName": "2.jpg"
+        },
+        {
+          "id": "6e5171b6-35cd-4606-83ed-9e9915a9808c",
+          "type": "Big Image",
+          "visible": true,
+          "image": "/examples/coffee-beans-003.jpg",
+          "alt": "3.jpg",
+          "sourceName": "3.jpg"
+        },
+        {
+          "id": "0026015f-6b4e-43d0-b143-95ab4dc11e8c",
+          "type": "Big Image",
+          "visible": true,
+          "image": "/examples/coffee-beans-004.jpg",
+          "alt": "4.jpg",
+          "sourceName": "4.jpg"
+        },
+        {
+          "id": "102e5dbe-26e2-4df2-8e82-97dd96427281",
+          "type": "Big Image",
+          "visible": true,
+          "image": "/examples/coffee-beans-005.jpg",
+          "alt": "5.jpg",
+          "sourceName": "5.jpg"
+        },
+        {
+          "id": "af1e105f-ac66-463a-abc1-145625ceaeef",
+          "type": "Big Image",
+          "visible": true,
+          "image": "/examples/coffee-beans-006.jpg",
+          "alt": "اليوم الوطني السعودي copy.jpg",
+          "sourceName": "اليوم الوطني السعودي copy.jpg"
+        },
+        {
+          "id": "8a9e140f-9eaa-4cbf-8aff-1a628a7b7d88",
+          "type": "Credits / Team",
+          "visible": true,
+          "title": "Creative direction & design",
+          "text": "Mikha Gerges. Presented from the original supplied files; no invented client results."
+        },
+        {
+          "id": "94013077-9367-499c-80bf-abeb16b7b713",
+          "type": "Next Project",
+          "visible": true
+        }
+      ]
+    },
+    {
+      "id": "63a9c1ab-b3af-52de-a774-580d2c822918",
+      "title": "Automotive campaigns",
+      "type": "Social media",
+      "client": "",
+      "year": "",
+      "role": "Creative direction & design",
+      "notes": "An ordered collection of 36 supplied visuals, following the original project folder.",
+      "cover": "/examples/automotive-001.jpg",
+      "alt": "Automotive campaigns — complete composition",
+      "status": "Draft",
+      "visibility": "Private",
+      "featured": true,
+      "templateSample": "automotive",
+      "sourceFiles": [
+        "example-source-171",
+        "example-source-133",
+        "example-source-141",
+        "example-source-053",
+        "example-source-045",
+        "example-source-144",
+        "example-source-172",
+        "example-source-013",
+        "example-source-208",
+        "example-source-074",
+        "example-source-022",
+        "example-source-001",
+        "example-source-031",
+        "example-source-052",
+        "example-source-198",
+        "example-source-164",
+        "example-source-156",
+        "example-source-061",
+        "example-source-064",
+        "example-source-128",
+        "example-source-189",
+        "example-source-047",
+        "example-source-123",
+        "example-source-039",
+        "example-source-147",
+        "example-source-059",
+        "example-source-207",
+        "example-source-069",
+        "example-source-020",
+        "example-source-187",
+        "example-source-183",
+        "example-source-150",
+        "example-source-014",
+        "example-source-200",
+        "example-source-023",
+        "example-source-004"
+      ],
+      "blocks": [
+        {
+          "id": "4812c812-11c0-4d29-84e1-ebb95587ff08",
+          "type": "Project Intro",
+          "visible": true,
+          "title": "The collection",
+          "text": "An ordered collection of 36 supplied visuals, following the original project folder."
+        },
+        {
+          "id": "aad07b20-fba1-44b5-ac92-adfc094c72dd",
+          "type": "Big Image",
+          "visible": true,
+          "image": "/examples/automotive-001.jpg",
+          "alt": "Artboard 1 (1).png",
+          "sourceName": "Artboard 1 (1).png"
+        },
+        {
+          "id": "537b8d15-2d77-46f2-80a0-4450c0118dec",
+          "type": "Big Image",
+          "visible": true,
+          "image": "/examples/automotive-002.jpg",
+          "alt": "Artboard 1 (2).png",
+          "sourceName": "Artboard 1 (2).png"
+        },
+        {
+          "id": "c93a1b6e-b9d6-4e05-ab08-9b3b1894931f",
+          "type": "Big Image",
+          "visible": true,
+          "image": "/examples/automotive-003.jpg",
+          "alt": "Artboard 1.jpg",
+          "sourceName": "Artboard 1.jpg"
+        },
+        {
+          "id": "a3152f68-96d1-4f2e-83ef-ff4b013f7b36",
+          "type": "Big Image",
+          "visible": true,
+          "image": "/examples/automotive-004.jpg",
+          "alt": "Artboard 2 (1).jpg",
+          "sourceName": "Artboard 2 (1).jpg"
+        },
+        {
+          "id": "9d4ed33d-4dbb-4952-8e5b-da9cd1272e7c",
+          "type": "Big Image",
+          "visible": true,
+          "image": "/examples/automotive-005.jpg",
+          "alt": "Artboard 2 (1).png",
+          "sourceName": "Artboard 2 (1).png"
+        },
+        {
+          "id": "cc7ad175-5408-485f-8cc2-2242ea3b4b47",
+          "type": "Big Image",
+          "visible": true,
+          "image": "/examples/automotive-006.jpg",
+          "alt": "Artboard 2 (1).png",
+          "sourceName": "Artboard 2 (1).png"
+        },
+        {
+          "id": "23220d11-07fa-42ce-8ce9-a6a950be14d8",
+          "type": "Big Image",
+          "visible": true,
+          "image": "/examples/automotive-007.jpg",
+          "alt": "Artboard 2.jpg",
+          "sourceName": "Artboard 2.jpg"
+        },
+        {
+          "id": "225f7e2d-9315-40d7-950e-d9f499181eae",
+          "type": "Big Image",
+          "visible": true,
+          "image": "/examples/automotive-008.jpg",
+          "alt": "Artboard 3 (1).png",
+          "sourceName": "Artboard 3 (1).png"
+        },
+        {
+          "id": "4e7a2f40-63f5-4ac6-b58e-d2f311b12fd4",
+          "type": "Big Image",
+          "visible": true,
+          "image": "/examples/automotive-009.jpg",
+          "alt": "Artboard 3.jpg",
+          "sourceName": "Artboard 3.jpg"
+        },
+        {
+          "id": "6e8bf782-8ae9-43a8-98dc-6d7790ad8832",
+          "type": "Big Image",
+          "visible": true,
+          "image": "/examples/automotive-010.jpg",
+          "alt": "Artboard 4 (1).png",
+          "sourceName": "Artboard 4 (1).png"
+        },
+        {
+          "id": "cbd95362-1082-43a6-90e2-98fb4a68b412",
+          "type": "Big Image",
+          "visible": true,
+          "image": "/examples/automotive-011.jpg",
+          "alt": "Artboard 4.jpg",
+          "sourceName": "Artboard 4.jpg"
+        },
+        {
+          "id": "109349ba-c61e-4fe0-83b7-eb5091def351",
+          "type": "Big Image",
+          "visible": true,
+          "image": "/examples/automotive-012.jpg",
+          "alt": "Artboard 5.jpg",
+          "sourceName": "Artboard 5.jpg"
+        },
+        {
+          "id": "35a108ca-3570-4ea5-8419-85a921465909",
+          "type": "Big Image",
+          "visible": true,
+          "image": "/examples/automotive-013.jpg",
+          "alt": "Artboard 6.jpg",
+          "sourceName": "Artboard 6.jpg"
+        },
+        {
+          "id": "0e9cb890-9c60-4c4b-b5f9-9f84823874df",
+          "type": "Big Image",
+          "visible": true,
+          "image": "/examples/automotive-014.jpg",
+          "alt": "Artboard 7.jpg",
+          "sourceName": "Artboard 7.jpg"
+        },
+        {
+          "id": "4dbf3c05-d131-4b58-b20a-a561c5d98ebc",
+          "type": "Big Image",
+          "visible": true,
+          "image": "/examples/automotive-015.jpg",
+          "alt": "Artboard 8 (1).jpg",
+          "sourceName": "Artboard 8 (1).jpg"
+        },
+        {
+          "id": "cdf7b775-5cf1-4de2-afda-f9aeef0afe46",
+          "type": "Big Image",
+          "visible": true,
+          "image": "/examples/automotive-016.jpg",
+          "alt": "Artboard 8.jpg",
+          "sourceName": "Artboard 8.jpg"
+        },
+        {
+          "id": "b5ae5307-a13b-431f-9c11-84f5f53259a8",
+          "type": "Big Image",
+          "visible": true,
+          "image": "/examples/automotive-017.jpg",
+          "alt": "Artboard 9 (1).jpg",
+          "sourceName": "Artboard 9 (1).jpg"
+        },
+        {
+          "id": "97aaad76-fae3-4e59-85cc-5a128a8bb23b",
+          "type": "Big Image",
+          "visible": true,
+          "image": "/examples/automotive-018.jpg",
+          "alt": "Artboard 9.jpg",
+          "sourceName": "Artboard 9.jpg"
+        },
+        {
+          "id": "71008cd2-d8e8-4f93-9258-41f30bca1f7a",
+          "type": "Big Image",
+          "visible": true,
+          "image": "/examples/automotive-019.jpg",
+          "alt": "Artboard 10 (1).jpg",
+          "sourceName": "Artboard 10 (1).jpg"
+        },
+        {
+          "id": "23d14114-23ed-4894-b3a9-bf36ba6cd77d",
+          "type": "Big Image",
+          "visible": true,
+          "image": "/examples/automotive-020.jpg",
+          "alt": "Artboard 10.jpg",
+          "sourceName": "Artboard 10.jpg"
+        },
+        {
+          "id": "4f299189-cf7d-47e0-9cbb-0620a5d8dbca",
+          "type": "Big Image",
+          "visible": true,
+          "image": "/examples/automotive-021.jpg",
+          "alt": "Artboard 11 (1).jpg",
+          "sourceName": "Artboard 11 (1).jpg"
+        },
+        {
+          "id": "8e987955-b847-45f2-a82c-e8af7ff0e2d3",
+          "type": "Big Image",
+          "visible": true,
+          "image": "/examples/automotive-022.jpg",
+          "alt": "Artboard 11.jpg",
+          "sourceName": "Artboard 11.jpg"
+        },
+        {
+          "id": "9a67d48b-24f5-46c9-a779-a2745293fd60",
+          "type": "Big Image",
+          "visible": true,
+          "image": "/examples/automotive-023.jpg",
+          "alt": "Artboard 12 (1).jpg",
+          "sourceName": "Artboard 12 (1).jpg"
+        },
+        {
+          "id": "79000fd0-7211-442f-a0a9-643cded88f93",
+          "type": "Big Image",
+          "visible": true,
+          "image": "/examples/automotive-024.jpg",
+          "alt": "Artboard 12.jpg",
+          "sourceName": "Artboard 12.jpg"
+        },
+        {
+          "id": "a5c686a2-b05d-4017-aee4-b20950723830",
+          "type": "Big Image",
+          "visible": true,
+          "image": "/examples/automotive-025.jpg",
+          "alt": "Artboard 13.jpg",
+          "sourceName": "Artboard 13.jpg"
+        },
+        {
+          "id": "8ef0bd69-caa9-43d2-bdf2-4a964e6f108c",
+          "type": "Big Image",
+          "visible": true,
+          "image": "/examples/automotive-026.jpg",
+          "alt": "Artboard 14.jpg",
+          "sourceName": "Artboard 14.jpg"
+        },
+        {
+          "id": "18d830c8-18da-426d-83e0-28346054477c",
+          "type": "Big Image",
+          "visible": true,
+          "image": "/examples/automotive-027.jpg",
+          "alt": "Artboard 15.jpg",
+          "sourceName": "Artboard 15.jpg"
+        },
+        {
+          "id": "d3f79f03-7452-42a1-b1ff-18a636f6e4b0",
+          "type": "Big Image",
+          "visible": true,
+          "image": "/examples/automotive-028.jpg",
+          "alt": "Artboard 16.jpg",
+          "sourceName": "Artboard 16.jpg"
+        },
+        {
+          "id": "36b47912-96a7-44a9-8186-396a8b32000e",
+          "type": "Big Image",
+          "visible": true,
+          "image": "/examples/automotive-029.jpg",
+          "alt": "Book it from anywhere, and pick it copy.jpg",
+          "sourceName": "Book it from anywhere, and pick it copy.jpg"
+        },
+        {
+          "id": "fb08a479-6a4c-4a41-9ac8-59a3251dcecd",
+          "type": "Big Image",
+          "visible": true,
+          "image": "/examples/automotive-030.jpg",
+          "alt": "Drive With Confidence copy.jpg",
+          "sourceName": "Drive With Confidence copy.jpg"
+        },
+        {
+          "id": "ac1361e5-c00c-4f6f-ae8d-68cad5fd782c",
+          "type": "Big Image",
+          "visible": true,
+          "image": "/examples/automotive-031.jpg",
+          "alt": "From our hands to yours it’s copy.jpg",
+          "sourceName": "From our hands to yours it’s copy.jpg"
+        },
+        {
+          "id": "19a476ea-5b17-43d9-bca5-9cccd4e345a0",
+          "type": "Big Image",
+          "visible": true,
+          "image": "/examples/automotive-032.jpg",
+          "alt": "HAPP.jpg",
+          "sourceName": "HAPP.jpg"
+        },
+        {
+          "id": "b1d6affa-bf6c-4ab7-a55f-9f8fd8b074b2",
+          "type": "Big Image",
+          "visible": true,
+          "image": "/examples/automotive-033.jpg",
+          "alt": "Happy.jpg",
+          "sourceName": "Happy.jpg"
+        },
+        {
+          "id": "f7f49d92-66fd-48d4-96cf-ff642702e5ec",
+          "type": "Big Image",
+          "visible": true,
+          "image": "/examples/automotive-034.jpg",
+          "alt": "Trusted by Thousands. Every Day..jpg",
+          "sourceName": "Trusted by Thousands. Every Day..jpg"
+        },
+        {
+          "id": "efcb7e3b-f232-4b01-9da9-ad653fda1ba2",
+          "type": "Big Image",
+          "visible": true,
+          "image": "/examples/automotive-035.jpg",
+          "alt": "اللاند عشان عيون صبري.jpg",
+          "sourceName": "اللاند عشان عيون صبري.jpg"
+        },
+        {
+          "id": "cd1be161-688c-4448-ab51-c4719fc1e39a",
+          "type": "Big Image",
+          "visible": true,
+          "image": "/examples/automotive-036.jpg",
+          "alt": "عمو نويل.jpg",
+          "sourceName": "عمو نويل.jpg"
+        },
+        {
+          "id": "a7c1a9bc-e4bf-411d-81de-ea5cd3402fc9",
+          "type": "Credits / Team",
+          "visible": true,
+          "title": "Creative direction & design",
+          "text": "Mikha Gerges. Presented from the original supplied files; no invented client results."
+        },
+        {
+          "id": "6f62638b-510a-44d0-99fd-3237dddd413a",
+          "type": "Next Project",
+          "visible": true
+        }
+      ]
+    },
+    {
+      "id": "71a311f9-1927-5d73-9ccd-2db3738dbe65",
+      "title": "Real estate campaigns",
+      "type": "Social media",
+      "client": "",
+      "year": "",
+      "role": "Creative direction & design",
+      "notes": "An ordered collection of 37 supplied visuals, following the original project folder.",
+      "cover": "/examples/realestate-001.jpg",
+      "alt": "Real estate campaigns — complete composition",
+      "status": "Draft",
+      "visibility": "Private",
+      "featured": true,
+      "templateSample": "realestate",
+      "sourceFiles": [
+        "example-source-012",
+        "example-source-170",
+        "example-source-077",
+        "example-source-007",
+        "example-source-018",
+        "example-source-113",
+        "example-source-206",
+        "example-source-125",
+        "example-source-190",
+        "example-source-095",
+        "example-source-177",
+        "example-source-099",
+        "example-source-169",
+        "example-source-193",
+        "example-source-085",
+        "example-source-178",
+        "example-source-192",
+        "example-source-098",
+        "example-source-046",
+        "example-source-103",
+        "example-source-188",
+        "example-source-182",
+        "example-source-041",
+        "example-source-028",
+        "example-source-002",
+        "example-source-009",
+        "example-source-024",
+        "example-source-112",
+        "example-source-073",
+        "example-source-033",
+        "example-source-092",
+        "example-source-160",
+        "example-source-194",
+        "example-source-142",
+        "example-source-196",
+        "example-source-102",
+        "example-source-162"
+      ],
+      "blocks": [
+        {
+          "id": "2afdb13b-a0b8-4066-b9aa-b4f979ea207d",
+          "type": "Project Intro",
+          "visible": true,
+          "title": "The collection",
+          "text": "An ordered collection of 37 supplied visuals, following the original project folder."
+        },
+        {
+          "id": "ba2f0052-dee4-48a4-9b66-280f179a6950",
+          "type": "Big Image",
+          "visible": true,
+          "image": "/examples/realestate-001.jpg",
+          "alt": "1 (1).jpg",
+          "sourceName": "1 (1).jpg"
+        },
+        {
+          "id": "7ebab8c2-8203-4dea-a7d1-819152a8ee23",
+          "type": "Big Image",
+          "visible": true,
+          "image": "/examples/realestate-002.jpg",
+          "alt": "1.jpg",
+          "sourceName": "1.jpg"
+        },
+        {
+          "id": "55b01ef9-a497-4eec-965d-09111b2d0ff1",
+          "type": "Big Image",
+          "visible": true,
+          "image": "/examples/realestate-003.jpg",
+          "alt": "2 (1).jpg",
+          "sourceName": "2 (1).jpg"
+        },
+        {
+          "id": "2a2c0eb5-e41d-4b28-8e57-28f6b483bb9b",
+          "type": "Big Image",
+          "visible": true,
+          "image": "/examples/realestate-004.jpg",
+          "alt": "2.jpg",
+          "sourceName": "2.jpg"
+        },
+        {
+          "id": "3bf11239-a8b6-4c2c-8eff-f3d923216725",
+          "type": "Big Image",
+          "visible": true,
+          "image": "/examples/realestate-005.jpg",
+          "alt": "3 (1).jpg",
+          "sourceName": "3 (1).jpg"
+        },
+        {
+          "id": "f0285288-8d98-427f-ae9c-961ec36d0d4e",
+          "type": "Big Image",
+          "visible": true,
+          "image": "/examples/realestate-006.jpg",
+          "alt": "3.jpg",
+          "sourceName": "3.jpg"
+        },
+        {
+          "id": "25dfa315-1955-419b-9bb8-f58a04df7dde",
+          "type": "Big Image",
+          "visible": true,
+          "image": "/examples/realestate-007.jpg",
+          "alt": "4 (1).jpg",
+          "sourceName": "4 (1).jpg"
+        },
+        {
+          "id": "f382a01d-9be9-4484-a5fc-cd3802905b6d",
+          "type": "Big Image",
+          "visible": true,
+          "image": "/examples/realestate-008.jpg",
+          "alt": "4.jpg",
+          "sourceName": "4.jpg"
+        },
+        {
+          "id": "e236f558-5e93-4b63-8e76-f2957e567a88",
+          "type": "Big Image",
+          "visible": true,
+          "image": "/examples/realestate-009.jpg",
+          "alt": "Artboard 1 (1).jpg",
+          "sourceName": "Artboard 1 (1).jpg"
+        },
+        {
+          "id": "2e9e05d7-b46c-464a-bdb5-3618c4c7005d",
+          "type": "Big Image",
+          "visible": true,
+          "image": "/examples/realestate-010.jpg",
+          "alt": "Artboard 1 (2).jpg",
+          "sourceName": "Artboard 1 (2).jpg"
+        },
+        {
+          "id": "314bcdf1-16ed-41ec-a4f2-99b03ac0d38a",
+          "type": "Big Image",
+          "visible": true,
+          "image": "/examples/realestate-011.jpg",
+          "alt": "Artboard 1 (2).jpg",
+          "sourceName": "Artboard 1 (2).jpg"
+        },
+        {
+          "id": "a1bc255e-5301-4b88-9c1e-db99c5f33586",
+          "type": "Big Image",
+          "visible": true,
+          "image": "/examples/realestate-012.jpg",
+          "alt": "Artboard 1.jpg",
+          "sourceName": "Artboard 1.jpg"
+        },
+        {
+          "id": "7918b7b0-1285-4b4a-b70c-150abc7d905b",
+          "type": "Big Image",
+          "visible": true,
+          "image": "/examples/realestate-013.jpg",
+          "alt": "Artboard 1.png",
+          "sourceName": "Artboard 1.png"
+        },
+        {
+          "id": "776979be-fdf9-49fa-af60-bf355deb16eb",
+          "type": "Big Image",
+          "visible": true,
+          "image": "/examples/realestate-014.jpg",
+          "alt": "Artboard 2 (1).jpg",
+          "sourceName": "Artboard 2 (1).jpg"
+        },
+        {
+          "id": "fd374934-bb94-4c92-aa46-d1346c35f172",
+          "type": "Big Image",
+          "visible": true,
+          "image": "/examples/realestate-015.jpg",
+          "alt": "Artboard 2 (2).jpg",
+          "sourceName": "Artboard 2 (2).jpg"
+        },
+        {
+          "id": "4d99c03a-d40b-405d-b19a-749c244dfbc4",
+          "type": "Big Image",
+          "visible": true,
+          "image": "/examples/realestate-016.jpg",
+          "alt": "Artboard 2 (2).jpg",
+          "sourceName": "Artboard 2 (2).jpg"
+        },
+        {
+          "id": "e0c6ac08-5964-42df-97f4-5f2beac22a85",
+          "type": "Big Image",
+          "visible": true,
+          "image": "/examples/realestate-017.jpg",
+          "alt": "Artboard 2.jpg",
+          "sourceName": "Artboard 2.jpg"
+        },
+        {
+          "id": "c0c24d6c-fb69-47d4-a245-5c6ae202a8b2",
+          "type": "Big Image",
+          "visible": true,
+          "image": "/examples/realestate-018.jpg",
+          "alt": "Artboard 2.png",
+          "sourceName": "Artboard 2.png"
+        },
+        {
+          "id": "c9d0633e-683f-4715-9549-67660311f623",
+          "type": "Big Image",
+          "visible": true,
+          "image": "/examples/realestate-019.jpg",
+          "alt": "Artboard 3 (1).jpg",
+          "sourceName": "Artboard 3 (1).jpg"
+        },
+        {
+          "id": "74975f03-3c22-41ea-b119-1f55b5f0f742",
+          "type": "Big Image",
+          "visible": true,
+          "image": "/examples/realestate-020.jpg",
+          "alt": "Artboard 3 (2).jpg",
+          "sourceName": "Artboard 3 (2).jpg"
+        },
+        {
+          "id": "1831e0d9-c5e5-4832-9d68-ec925183bfd6",
+          "type": "Big Image",
+          "visible": true,
+          "image": "/examples/realestate-021.jpg",
+          "alt": "Artboard 3 (2).jpg",
+          "sourceName": "Artboard 3 (2).jpg"
+        },
+        {
+          "id": "8fe75927-e80c-4bee-8001-aa4c7ddfb637",
+          "type": "Big Image",
+          "visible": true,
+          "image": "/examples/realestate-022.jpg",
+          "alt": "Artboard 3.jpg",
+          "sourceName": "Artboard 3.jpg"
+        },
+        {
+          "id": "6afbb861-66d0-4412-bc6c-5a7292fa76af",
+          "type": "Big Image",
+          "visible": true,
+          "image": "/examples/realestate-023.jpg",
+          "alt": "Artboard 3.png",
+          "sourceName": "Artboard 3.png"
+        },
+        {
+          "id": "279ce5be-5f0e-46ee-98b9-981d079c5c0a",
+          "type": "Big Image",
+          "visible": true,
+          "image": "/examples/realestate-024.jpg",
+          "alt": "Artboard 4 (1).jpg",
+          "sourceName": "Artboard 4 (1).jpg"
+        },
+        {
+          "id": "904e154a-14f8-4398-8ca7-071c4463bd50",
+          "type": "Big Image",
+          "visible": true,
+          "image": "/examples/realestate-025.jpg",
+          "alt": "Artboard 4 (2).jpg",
+          "sourceName": "Artboard 4 (2).jpg"
+        },
+        {
+          "id": "47af1d2f-1e4d-46c3-bc1f-be04191451fd",
+          "type": "Big Image",
+          "visible": true,
+          "image": "/examples/realestate-026.jpg",
+          "alt": "Artboard 4 (2).jpg",
+          "sourceName": "Artboard 4 (2).jpg"
+        },
+        {
+          "id": "49cda39f-8573-4e69-983e-b7e20b11a1d3",
+          "type": "Big Image",
+          "visible": true,
+          "image": "/examples/realestate-027.jpg",
+          "alt": "Artboard 4.jpg",
+          "sourceName": "Artboard 4.jpg"
+        },
+        {
+          "id": "74f4ad41-0753-4277-b64f-1580343717aa",
+          "type": "Big Image",
+          "visible": true,
+          "image": "/examples/realestate-028.jpg",
+          "alt": "Artboard 4.png",
+          "sourceName": "Artboard 4.png"
+        },
+        {
+          "id": "c5ebd21f-99e2-456d-8f74-5ca38d645f6f",
+          "type": "Big Image",
+          "visible": true,
+          "image": "/examples/realestate-029.jpg",
+          "alt": "Artboard 5 (1).jpg",
+          "sourceName": "Artboard 5 (1).jpg"
+        },
+        {
+          "id": "c31510a9-40cf-424d-8ce2-e88ba03b8481",
+          "type": "Big Image",
+          "visible": true,
+          "image": "/examples/realestate-030.jpg",
+          "alt": "Artboard 5 (2).jpg",
+          "sourceName": "Artboard 5 (2).jpg"
+        },
+        {
+          "id": "d13f76e3-c1f3-43c1-90cf-5f12f270b237",
+          "type": "Big Image",
+          "visible": true,
+          "image": "/examples/realestate-031.jpg",
+          "alt": "Artboard 5 (3).jpg",
+          "sourceName": "Artboard 5 (3).jpg"
+        },
+        {
+          "id": "93b775c2-263d-4ca1-8d25-7c07329e6b3c",
+          "type": "Big Image",
+          "visible": true,
+          "image": "/examples/realestate-032.jpg",
+          "alt": "Artboard 5.jpg",
+          "sourceName": "Artboard 5.jpg"
+        },
+        {
+          "id": "cc589b64-f95d-4b2b-bb9a-dc1d9d35d317",
+          "type": "Big Image",
+          "visible": true,
+          "image": "/examples/realestate-033.jpg",
+          "alt": "Artboard 5.png",
+          "sourceName": "Artboard 5.png"
+        },
+        {
+          "id": "77e19087-a599-4ba4-a4cc-ba8cbecf790e",
+          "type": "Big Image",
+          "visible": true,
+          "image": "/examples/realestate-034.jpg",
+          "alt": "Post 2 copy.png",
+          "sourceName": "Post 2 copy.png"
+        },
+        {
+          "id": "06ea841f-1283-402a-a183-9b9d2413f5bd",
+          "type": "Big Image",
+          "visible": true,
+          "image": "/examples/realestate-035.jpg",
+          "alt": "Post 2.png",
+          "sourceName": "Post 2.png"
+        },
+        {
+          "id": "48458026-fcfc-4b6f-8027-009be94ce117",
+          "type": "Big Image",
+          "visible": true,
+          "image": "/examples/realestate-036.jpg",
+          "alt": "Post 3 copy.png",
+          "sourceName": "Post 3 copy.png"
+        },
+        {
+          "id": "38092e65-be0e-40f0-98fc-7ab25d6be75f",
+          "type": "Big Image",
+          "visible": true,
+          "image": "/examples/realestate-037.jpg",
+          "alt": "Post 4.png",
+          "sourceName": "Post 4.png"
+        },
+        {
+          "id": "dcc237c4-62f7-4fe2-aab2-b78474d38e70",
+          "type": "Credits / Team",
+          "visible": true,
+          "title": "Creative direction & design",
+          "text": "Mikha Gerges. Presented from the original supplied files; no invented client results."
+        },
+        {
+          "id": "90725ca0-75f0-4339-9981-575db6d03165",
+          "type": "Next Project",
+          "visible": true
+        }
+      ]
+    },
+    {
+      "id": "da887a32-150d-5180-9d79-0314a446e908",
+      "title": "Marketing campaigns",
+      "type": "Social media",
+      "client": "",
+      "year": "",
+      "role": "Creative direction & design",
+      "notes": "An ordered collection of 37 supplied visuals, following the original project folder.",
+      "cover": "/examples/marketing-001.jpg",
+      "alt": "Marketing campaigns — complete composition",
+      "status": "Draft",
+      "visibility": "Private",
+      "featured": true,
+      "templateSample": "marketing",
+      "sourceFiles": [
+        "example-source-135",
+        "example-source-043",
+        "example-source-080",
+        "example-source-029",
+        "example-source-072",
+        "example-source-071",
+        "example-source-163",
+        "example-source-210",
+        "example-source-078",
+        "example-source-121",
+        "example-source-057",
+        "example-source-134",
+        "example-source-008",
+        "example-source-062",
+        "example-source-030",
+        "example-source-115",
+        "example-source-204",
+        "example-source-015",
+        "example-source-186",
+        "example-source-139",
+        "example-source-003",
+        "example-source-181",
+        "example-source-065",
+        "example-source-050",
+        "example-source-120",
+        "example-source-174",
+        "example-source-111",
+        "example-source-087",
+        "example-source-056",
+        "example-source-175",
+        "example-source-027",
+        "example-source-044",
+        "example-source-152",
+        "example-source-173",
+        "example-source-179",
+        "example-source-091",
+        "example-source-180"
+      ],
+      "blocks": [
+        {
+          "id": "669b8531-8469-49d4-9d04-b94c5f11e8e8",
+          "type": "Project Intro",
+          "visible": true,
+          "title": "The collection",
+          "text": "An ordered collection of 37 supplied visuals, following the original project folder."
+        },
+        {
+          "id": "0f65ee6e-2e11-41d8-a47c-af7bb28d57ed",
+          "type": "Big Image",
+          "visible": true,
+          "image": "/examples/marketing-001.jpg",
+          "alt": "19-SEO copy.jpg",
+          "sourceName": "19-SEO copy.jpg"
+        },
+        {
+          "id": "d64ed4d7-6ee0-420c-93d6-86defe791bed",
+          "type": "Big Image",
+          "visible": true,
+          "image": "/examples/marketing-002.jpg",
+          "alt": "20-Brand-Identity copy.jpg",
+          "sourceName": "20-Brand-Identity copy.jpg"
+        },
+        {
+          "id": "0a9af268-d86f-450a-b1ba-8f8ffda1f617",
+          "type": "Big Image",
+          "visible": true,
+          "image": "/examples/marketing-003.jpg",
+          "alt": "22-Remote-Marketing-Team-Europe copy.jpg",
+          "sourceName": "22-Remote-Marketing-Team-Europe copy.jpg"
+        },
+        {
+          "id": "6297d871-968a-494c-b760-3e335451ea8c",
+          "type": "Big Image",
+          "visible": true,
+          "image": "/examples/marketing-004.jpg",
+          "alt": "23-Complete-Marketing-Package copy.jpg",
+          "sourceName": "23-Complete-Marketing-Package copy.jpg"
+        },
+        {
+          "id": "5e6a6f07-c110-4e7b-a6e2-38355476dd6c",
+          "type": "Big Image",
+          "visible": true,
+          "image": "/examples/marketing-005.jpg",
+          "alt": "Artboard 1 (1).jpg",
+          "sourceName": "Artboard 1 (1).jpg"
+        },
+        {
+          "id": "94aa22e4-03e1-47e2-aac3-df761dbec6ec",
+          "type": "Big Image",
+          "visible": true,
+          "image": "/examples/marketing-006.jpg",
+          "alt": "Artboard 1 (2).jpg",
+          "sourceName": "Artboard 1 (2).jpg"
+        },
+        {
+          "id": "232547a7-fba0-4349-95b6-f3ea5ef66b28",
+          "type": "Big Image",
+          "visible": true,
+          "image": "/examples/marketing-007.jpg",
+          "alt": "Artboard 1 (2).jpg",
+          "sourceName": "Artboard 1 (2).jpg"
+        },
+        {
+          "id": "6f7b67db-b352-4ba3-b7f7-dc57aca7f8bc",
+          "type": "Big Image",
+          "visible": true,
+          "image": "/examples/marketing-008.jpg",
+          "alt": "Artboard 1.jpg",
+          "sourceName": "Artboard 1.jpg"
+        },
+        {
+          "id": "35436a40-c851-4e7d-8d69-be11ab2298a9",
+          "type": "Big Image",
+          "visible": true,
+          "image": "/examples/marketing-009.jpg",
+          "alt": "Artboard 1.png",
+          "sourceName": "Artboard 1.png"
+        },
+        {
+          "id": "fef59eca-d11f-4c05-bbb9-96bef4a1cdad",
+          "type": "Big Image",
+          "visible": true,
+          "image": "/examples/marketing-010.jpg",
+          "alt": "Artboard 2 (1).jpg",
+          "sourceName": "Artboard 2 (1).jpg"
+        },
+        {
+          "id": "c4d771a2-0386-4cc8-95b6-704858e7119c",
+          "type": "Big Image",
+          "visible": true,
+          "image": "/examples/marketing-011.jpg",
+          "alt": "Artboard 2 (2).jpg",
+          "sourceName": "Artboard 2 (2).jpg"
+        },
+        {
+          "id": "129b25f7-2c1e-4348-9011-ecb936c46989",
+          "type": "Big Image",
+          "visible": true,
+          "image": "/examples/marketing-012.jpg",
+          "alt": "Artboard 2 (2).jpg",
+          "sourceName": "Artboard 2 (2).jpg"
+        },
+        {
+          "id": "938c47f0-9e5d-4f05-8bc4-d4984a454f1e",
+          "type": "Big Image",
+          "visible": true,
+          "image": "/examples/marketing-013.jpg",
+          "alt": "Artboard 2.jpg",
+          "sourceName": "Artboard 2.jpg"
+        },
+        {
+          "id": "ecb92d57-cad0-46a3-9239-6b77dc409d9f",
+          "type": "Big Image",
+          "visible": true,
+          "image": "/examples/marketing-014.jpg",
+          "alt": "Artboard 2.png",
+          "sourceName": "Artboard 2.png"
+        },
+        {
+          "id": "7c504b2d-8a53-4b3f-b86f-8d0cac38bf8c",
+          "type": "Big Image",
+          "visible": true,
+          "image": "/examples/marketing-015.jpg",
+          "alt": "Artboard 3 (1).jpg",
+          "sourceName": "Artboard 3 (1).jpg"
+        },
+        {
+          "id": "90654772-9dc5-463e-ac30-98400cf6c710",
+          "type": "Big Image",
+          "visible": true,
+          "image": "/examples/marketing-016.jpg",
+          "alt": "Artboard 3 (2).jpg",
+          "sourceName": "Artboard 3 (2).jpg"
+        },
+        {
+          "id": "f2cba724-33d4-46e3-93fa-1147bef70dc7",
+          "type": "Big Image",
+          "visible": true,
+          "image": "/examples/marketing-017.jpg",
+          "alt": "Artboard 3 (2).jpg",
+          "sourceName": "Artboard 3 (2).jpg"
+        },
+        {
+          "id": "4d42878b-ef93-41ff-abdf-0d586540c547",
+          "type": "Big Image",
+          "visible": true,
+          "image": "/examples/marketing-018.jpg",
+          "alt": "Artboard 3.jpg",
+          "sourceName": "Artboard 3.jpg"
+        },
+        {
+          "id": "5c1c4371-5cf0-4ea8-a13f-67ecda9ffb15",
+          "type": "Big Image",
+          "visible": true,
+          "image": "/examples/marketing-019.jpg",
+          "alt": "Artboard 3.png",
+          "sourceName": "Artboard 3.png"
+        },
+        {
+          "id": "26de7eed-0110-418a-8f73-d807e11b10bc",
+          "type": "Big Image",
+          "visible": true,
+          "image": "/examples/marketing-020.jpg",
+          "alt": "Artboard 4 (1).jpg",
+          "sourceName": "Artboard 4 (1).jpg"
+        },
+        {
+          "id": "21c558b6-4930-45bc-a0db-e0efe47b532e",
+          "type": "Big Image",
+          "visible": true,
+          "image": "/examples/marketing-021.jpg",
+          "alt": "Artboard 4 (2).jpg",
+          "sourceName": "Artboard 4 (2).jpg"
+        },
+        {
+          "id": "bae8253c-2c52-47de-904b-49298aa6382c",
+          "type": "Big Image",
+          "visible": true,
+          "image": "/examples/marketing-022.jpg",
+          "alt": "Artboard 4 (2).jpg",
+          "sourceName": "Artboard 4 (2).jpg"
+        },
+        {
+          "id": "38311e6a-5ec1-481c-8d7d-b5985dca6e11",
+          "type": "Big Image",
+          "visible": true,
+          "image": "/examples/marketing-023.jpg",
+          "alt": "Artboard 4.jpg",
+          "sourceName": "Artboard 4.jpg"
+        },
+        {
+          "id": "a771a43e-8cda-4d2a-a27e-96051f60d36c",
+          "type": "Big Image",
+          "visible": true,
+          "image": "/examples/marketing-024.jpg",
+          "alt": "Artboard 4.png",
+          "sourceName": "Artboard 4.png"
+        },
+        {
+          "id": "6b42ab55-dd46-4a1f-9b7f-ae1ebdd7732e",
+          "type": "Big Image",
+          "visible": true,
+          "image": "/examples/marketing-025.jpg",
+          "alt": "Artboard 5 (1).jpg",
+          "sourceName": "Artboard 5 (1).jpg"
+        },
+        {
+          "id": "1510c1b8-6459-4f33-bb8e-e767cf907e70",
+          "type": "Big Image",
+          "visible": true,
+          "image": "/examples/marketing-026.jpg",
+          "alt": "Artboard 5 (1).jpg",
+          "sourceName": "Artboard 5 (1).jpg"
+        },
+        {
+          "id": "deb76764-ab14-4dd9-b215-abf2a88b2c50",
+          "type": "Big Image",
+          "visible": true,
+          "image": "/examples/marketing-027.jpg",
+          "alt": "Artboard 5.jpg",
+          "sourceName": "Artboard 5.jpg"
+        },
+        {
+          "id": "ba2466a0-2673-43f1-b4dc-8e580af7ff73",
+          "type": "Big Image",
+          "visible": true,
+          "image": "/examples/marketing-028.jpg",
+          "alt": "Artboard 5.png",
+          "sourceName": "Artboard 5.png"
+        },
+        {
+          "id": "2ae6eb3c-0435-4cb1-95f8-0dd1f2ea64dc",
+          "type": "Big Image",
+          "visible": true,
+          "image": "/examples/marketing-029.jpg",
+          "alt": "Artboard 6 (1).jpg",
+          "sourceName": "Artboard 6 (1).jpg"
+        },
+        {
+          "id": "96c6fc82-414b-4dfa-8450-4c57087212a3",
+          "type": "Big Image",
+          "visible": true,
+          "image": "/examples/marketing-030.jpg",
+          "alt": "Artboard 6 (1).jpg",
+          "sourceName": "Artboard 6 (1).jpg"
+        },
+        {
+          "id": "03188a92-81fc-4e69-98f1-8a485a3fd1c6",
+          "type": "Big Image",
+          "visible": true,
+          "image": "/examples/marketing-031.jpg",
+          "alt": "Artboard 6.jpg",
+          "sourceName": "Artboard 6.jpg"
+        },
+        {
+          "id": "623fe559-ca6b-4c2c-a514-7482a38a6815",
+          "type": "Big Image",
+          "visible": true,
+          "image": "/examples/marketing-032.jpg",
+          "alt": "Artboard 6.png",
+          "sourceName": "Artboard 6.png"
+        },
+        {
+          "id": "172a4545-66ff-491f-bbc8-ab624d224dc3",
+          "type": "Big Image",
+          "visible": true,
+          "image": "/examples/marketing-033.jpg",
+          "alt": "Artboard 7 (1).jpg",
+          "sourceName": "Artboard 7 (1).jpg"
+        },
+        {
+          "id": "686d4a14-ded3-4438-b2e4-7838d5f051df",
+          "type": "Big Image",
+          "visible": true,
+          "image": "/examples/marketing-034.jpg",
+          "alt": "Artboard 7 (1).jpg",
+          "sourceName": "Artboard 7 (1).jpg"
+        },
+        {
+          "id": "92b85b7b-fbcf-4cb0-bef4-5dbe340e33ee",
+          "type": "Big Image",
+          "visible": true,
+          "image": "/examples/marketing-035.jpg",
+          "alt": "Artboard 7.jpg",
+          "sourceName": "Artboard 7.jpg"
+        },
+        {
+          "id": "39e440ec-9f39-4c60-b6ad-c7d5330fc797",
+          "type": "Big Image",
+          "visible": true,
+          "image": "/examples/marketing-036.jpg",
+          "alt": "Artboard 7.png",
+          "sourceName": "Artboard 7.png"
+        },
+        {
+          "id": "c4a040b8-42fc-410a-90c2-0ec917f7cc08",
+          "type": "Big Image",
+          "visible": true,
+          "image": "/examples/marketing-037.jpg",
+          "alt": "ستوري اليوم الوطني السعودي copy.jpg",
+          "sourceName": "ستوري اليوم الوطني السعودي copy.jpg"
+        },
+        {
+          "id": "51932dfc-ad3a-4419-8f6e-592e00f6d6bb",
+          "type": "Credits / Team",
+          "visible": true,
+          "title": "Creative direction & design",
+          "text": "Mikha Gerges. Presented from the original supplied files; no invented client results."
+        },
+        {
+          "id": "48d9c107-d58a-4224-b711-fc03f550acab",
+          "type": "Next Project",
+          "visible": true
+        }
+      ]
+    },
+    {
+      "id": "7dd02d53-41a6-5fc4-9f7d-65d64ef61f7b",
+      "title": "Collage explorations",
+      "type": "Social media",
+      "client": "",
+      "year": "",
+      "role": "Creative direction & design",
+      "notes": "An ordered collection of 19 supplied visuals, following the original project folder.",
+      "cover": "/examples/semi-collage-001.jpg",
+      "alt": "Collage explorations — complete composition",
+      "status": "Draft",
+      "visibility": "Private",
+      "featured": true,
+      "templateSample": "semi-collage",
+      "sourceFiles": [
+        "example-source-129",
+        "example-source-051",
+        "example-source-122",
+        "example-source-006",
+        "example-source-086",
+        "example-source-127",
+        "example-source-161",
+        "example-source-119",
+        "example-source-151",
+        "example-source-066",
+        "example-source-058",
+        "example-source-093",
+        "example-source-100",
+        "example-source-149",
+        "example-source-026",
+        "example-source-138",
+        "example-source-158",
+        "example-source-191",
+        "example-source-068"
+      ],
+      "blocks": [
+        {
+          "id": "2a43f9a2-a435-4cee-99d3-16fed505630c",
+          "type": "Project Intro",
+          "visible": true,
+          "title": "The collection",
+          "text": "An ordered collection of 19 supplied visuals, following the original project folder."
+        },
+        {
+          "id": "0e930196-6bbd-4081-b464-eb44514dde4d",
+          "type": "Big Image",
+          "visible": true,
+          "image": "/examples/semi-collage-001.jpg",
+          "alt": "84% of people buy because of UGC copy.jpg",
+          "sourceName": "84% of people buy because of UGC copy.jpg"
+        },
+        {
+          "id": "c488396c-8f50-46f9-86c8-b50243b8b09d",
+          "type": "Big Image",
+          "visible": true,
+          "image": "/examples/semi-collage-002.jpg",
+          "alt": "Artboard 1.png",
+          "sourceName": "Artboard 1.png"
+        },
+        {
+          "id": "6c84025a-3bb3-4a27-8b60-cfdddf8dd385",
+          "type": "Big Image",
+          "visible": true,
+          "image": "/examples/semi-collage-003.jpg",
+          "alt": "Artboard 2.png",
+          "sourceName": "Artboard 2.png"
+        },
+        {
+          "id": "fd4a849b-b534-4709-9d65-b5c623c255e7",
+          "type": "Big Image",
+          "visible": true,
+          "image": "/examples/semi-collage-004.jpg",
+          "alt": "Artboard 3.png",
+          "sourceName": "Artboard 3.png"
+        },
+        {
+          "id": "1387068f-2eff-43a1-be0d-a80e2c56c8a6",
+          "type": "Big Image",
+          "visible": true,
+          "image": "/examples/semi-collage-005.jpg",
+          "alt": "Artboard 4.png",
+          "sourceName": "Artboard 4.png"
+        },
+        {
+          "id": "d175665c-6e4e-4f94-95da-95dda64952d3",
+          "type": "Big Image",
+          "visible": true,
+          "image": "/examples/semi-collage-006.jpg",
+          "alt": "Artboard 5.png",
+          "sourceName": "Artboard 5.png"
+        },
+        {
+          "id": "5100ccaf-2bc5-44ff-bf30-f5b2e1a00978",
+          "type": "Big Image",
+          "visible": true,
+          "image": "/examples/semi-collage-007.jpg",
+          "alt": "Artboard 6.png",
+          "sourceName": "Artboard 6.png"
+        },
+        {
+          "id": "65ff144b-5e53-4bc3-9eb3-484c22f49207",
+          "type": "Big Image",
+          "visible": true,
+          "image": "/examples/semi-collage-008.jpg",
+          "alt": "Artboard 7.png",
+          "sourceName": "Artboard 7.png"
+        },
+        {
+          "id": "87237aa4-2cf1-47ac-879d-250f7bd93443",
+          "type": "Big Image",
+          "visible": true,
+          "image": "/examples/semi-collage-009.jpg",
+          "alt": "Artboard 8.png",
+          "sourceName": "Artboard 8.png"
+        },
+        {
+          "id": "292d07fe-5c86-4bd9-b731-d88c47ad2a45",
+          "type": "Big Image",
+          "visible": true,
+          "image": "/examples/semi-collage-010.jpg",
+          "alt": "Artboard 9.png",
+          "sourceName": "Artboard 9.png"
+        },
+        {
+          "id": "e4dbafbf-4518-45e8-9a24-ca607283dbbe",
+          "type": "Big Image",
+          "visible": true,
+          "image": "/examples/semi-collage-011.jpg",
+          "alt": "Artboard 10.png",
+          "sourceName": "Artboard 10.png"
+        },
+        {
+          "id": "2f0728d0-3640-4af7-b501-01933bc5566f",
+          "type": "Big Image",
+          "visible": true,
+          "image": "/examples/semi-collage-012.jpg",
+          "alt": "Create the buzz with Brand Boost copy.jpg",
+          "sourceName": "Create the buzz with Brand Boost copy.jpg"
+        },
+        {
+          "id": "e86b86c1-55ad-4b80-a1ea-e9596a4a47f5",
+          "type": "Big Image",
+          "visible": true,
+          "image": "/examples/semi-collage-013.jpg",
+          "alt": "Forget ads. Think conversations. copy.jpg",
+          "sourceName": "Forget ads. Think conversations. copy.jpg"
+        },
+        {
+          "id": "cf3fda95-afbb-4993-b8ce-8d9b30218d26",
+          "type": "Big Image",
+          "visible": true,
+          "image": "/examples/semi-collage-014.jpg",
+          "alt": "Join the fastest-growing UGC creator community copy.jpg",
+          "sourceName": "Join the fastest-growing UGC creator community copy.jpg"
+        },
+        {
+          "id": "9d32f966-beee-49ca-a131-79f4f1406d97",
+          "type": "Big Image",
+          "visible": true,
+          "image": "/examples/semi-collage-015.jpg",
+          "alt": "Real - Perfect. copy.jpg",
+          "sourceName": "Real - Perfect. copy.jpg"
+        },
+        {
+          "id": "644c00aa-34b8-4f50-87b9-fa085ea741e9",
+          "type": "Big Image",
+          "visible": true,
+          "image": "/examples/semi-collage-016.jpg",
+          "alt": "switch to UGC copy.jpg",
+          "sourceName": "switch to UGC copy.jpg"
+        },
+        {
+          "id": "60d5cfa2-48d0-46b8-90ab-b527becc7d55",
+          "type": "Big Image",
+          "visible": true,
+          "image": "/examples/semi-collage-017.jpg",
+          "alt": "UGC is what makes the real difference copy.jpg",
+          "sourceName": "UGC is what makes the real difference copy.jpg"
+        },
+        {
+          "id": "6443b055-dc51-4511-bc95-b1dc7f5a29f2",
+          "type": "Big Image",
+          "visible": true,
+          "image": "/examples/semi-collage-018.jpg",
+          "alt": "UGC made for your market copy.jpg",
+          "sourceName": "UGC made for your market copy.jpg"
+        },
+        {
+          "id": "4a7836bb-8679-4652-bc88-fc80a8c6bcfc",
+          "type": "Big Image",
+          "visible": true,
+          "image": "/examples/semi-collage-019.jpg",
+          "alt": "UGC Sells More Than Influencers. copy.jpg",
+          "sourceName": "UGC Sells More Than Influencers. copy.jpg"
+        },
+        {
+          "id": "f2b8c20f-e987-4f5d-8c25-9d97f480c289",
+          "type": "Credits / Team",
+          "visible": true,
+          "title": "Creative direction & design",
+          "text": "Mikha Gerges. Presented from the original supplied files; no invented client results."
+        },
+        {
+          "id": "47e7f2b3-946a-416c-bb8f-0918ad1d7d2f",
+          "type": "Next Project",
+          "visible": true
+        }
+      ]
+    },
+    {
+      "id": "acdfb5cb-7702-556f-b77d-607d4438cf5d",
+      "title": "Moto campaigns",
+      "type": "Social media",
+      "client": "",
+      "year": "",
+      "role": "Creative direction & design",
+      "notes": "An ordered collection of 6 supplied visuals, following the original project folder.",
+      "cover": "/examples/moto-001.jpg",
+      "alt": "Moto campaigns — complete composition",
+      "status": "Draft",
+      "visibility": "Private",
+      "featured": true,
+      "templateSample": "moto",
+      "sourceFiles": [
+        "example-source-084",
+        "example-source-118",
+        "example-source-168",
+        "example-source-083",
+        "example-source-097",
+        "example-source-145"
+      ],
+      "blocks": [
+        {
+          "id": "7076c958-7fa9-4032-9310-325dd2844e6b",
+          "type": "Project Intro",
+          "visible": true,
+          "title": "The collection",
+          "text": "An ordered collection of 6 supplied visuals, following the original project folder."
+        },
+        {
+          "id": "8f3e14e1-0fcb-4d5d-a323-3827b2c30341",
+          "type": "Big Image",
+          "visible": true,
+          "image": "/examples/moto-001.jpg",
+          "alt": "TOV Bajaj من Golden Whee copy.jpg",
+          "sourceName": "TOV Bajaj من Golden Whee copy.jpg"
+        },
+        {
+          "id": "72fc95b9-6e8e-489f-b32b-250f230f82cb",
+          "type": "Big Image",
+          "visible": true,
+          "image": "/examples/moto-002.jpg",
+          "alt": "القطعة الاصلية.png",
+          "sourceName": "القطعة الاصلية.png"
+        },
+        {
+          "id": "9a632092-d31d-4c79-a93c-215ed0bb80a2",
+          "type": "Big Image",
+          "visible": true,
+          "image": "/examples/moto-003.jpg",
+          "alt": "علامات تقولك.png",
+          "sourceName": "علامات تقولك.png"
+        },
+        {
+          "id": "43430c01-95e3-4e56-a860-763f299cabaa",
+          "type": "Big Image",
+          "visible": true,
+          "image": "/examples/moto-004.jpg",
+          "alt": "فرق تشوفه بعينك copy.jpg",
+          "sourceName": "فرق تشوفه بعينك copy.jpg"
+        },
+        {
+          "id": "633d980c-3d75-4889-bce5-3534b507ab02",
+          "type": "Big Image",
+          "visible": true,
+          "image": "/examples/moto-005.jpg",
+          "alt": "كل كم تغير زيت دراجتك copy.jpg",
+          "sourceName": "كل كم تغير زيت دراجتك copy.jpg"
+        },
+        {
+          "id": "421003a8-58cf-435c-91a4-be4624f66342",
+          "type": "Big Image",
+          "visible": true,
+          "image": "/examples/moto-006.jpg",
+          "alt": "كل مشوار يبدأ بزر التشغيل copy.jpg",
+          "sourceName": "كل مشوار يبدأ بزر التشغيل copy.jpg"
+        },
+        {
+          "id": "2c0afa93-adf5-4f7e-a761-a952a1457183",
+          "type": "Credits / Team",
+          "visible": true,
+          "title": "Creative direction & design",
+          "text": "Mikha Gerges. Presented from the original supplied files; no invented client results."
+        },
+        {
+          "id": "7fc1b4a7-fa13-4c9a-a888-bc50230abadc",
+          "type": "Next Project",
+          "visible": true
+        }
+      ]
+    },
+    {
+      "id": "119cde20-0474-56e3-b9b7-88721edb7c47",
+      "title": "McDonald’s — connected carousel",
+      "type": "Social media",
+      "client": "",
+      "year": "",
+      "role": "Creative direction & design",
+      "notes": "An ordered collection of 6 supplied visuals, following the original project folder.",
+      "cover": "/examples/carousel-mcdonald-s-001.jpg",
+      "alt": "McDonald’s — connected carousel — complete composition",
+      "status": "Draft",
+      "visibility": "Private",
+      "featured": true,
+      "templateSample": "carousel-mcdonald-s",
+      "sourceFiles": [
+        "example-source-005",
+        "example-source-060",
+        "example-source-146",
+        "example-source-195",
+        "example-source-096",
+        "example-source-109"
+      ],
+      "blocks": [
+        {
+          "id": "732de1eb-43c5-45b1-8e42-a36a82976796",
+          "type": "Project Intro",
+          "visible": true,
+          "title": "The collection",
+          "text": "An ordered collection of 6 supplied visuals, following the original project folder."
+        },
+        {
+          "id": "3b7bd28a-6b67-4bff-a802-02371d2d5085",
+          "type": "Big Image",
+          "visible": true,
+          "image": "/examples/carousel-mcdonald-s-001.jpg",
+          "alt": "38-Why-does-McDonald’s-barely-need-to-show-the-burger_01.gif",
+          "sourceName": "38-Why-does-McDonald’s-barely-need-to-show-the-burger_01.gif"
+        },
+        {
+          "id": "0c36b4ee-72e4-4087-a345-c2c2a7ebd304",
+          "type": "Big Image",
+          "visible": true,
+          "image": "/examples/carousel-mcdonald-s-002.jpg",
+          "alt": "38-Why-does-McDonald’s-barely-need-to-show-the-burger_02.gif",
+          "sourceName": "38-Why-does-McDonald’s-barely-need-to-show-the-burger_02.gif"
+        },
+        {
+          "id": "edaf0b5b-0b4a-4e79-9e97-6b0d2fa52a61",
+          "type": "Big Image",
+          "visible": true,
+          "image": "/examples/carousel-mcdonald-s-003.jpg",
+          "alt": "38-Why-does-McDonald’s-barely-need-to-show-the-burger_03.gif",
+          "sourceName": "38-Why-does-McDonald’s-barely-need-to-show-the-burger_03.gif"
+        },
+        {
+          "id": "44e605fb-46f0-40be-97de-addbd46f6295",
+          "type": "Big Image",
+          "visible": true,
+          "image": "/examples/carousel-mcdonald-s-004.jpg",
+          "alt": "38-Why-does-McDonald’s-barely-need-to-show-the-burger_04.gif",
+          "sourceName": "38-Why-does-McDonald’s-barely-need-to-show-the-burger_04.gif"
+        },
+        {
+          "id": "ed134bd8-7f78-4913-85c2-9f0253e18048",
+          "type": "Big Image",
+          "visible": true,
+          "image": "/examples/carousel-mcdonald-s-005.jpg",
+          "alt": "38-Why-does-McDonald’s-barely-need-to-show-the-burger_05.gif",
+          "sourceName": "38-Why-does-McDonald’s-barely-need-to-show-the-burger_05.gif"
+        },
+        {
+          "id": "7a1583ce-7288-41be-9b65-30bab0d97066",
+          "type": "Big Image",
+          "visible": true,
+          "image": "/examples/carousel-mcdonald-s-006.jpg",
+          "alt": "38-Why-does-McDonald’s-barely-need-to-show-the-burger_06.gif",
+          "sourceName": "38-Why-does-McDonald’s-barely-need-to-show-the-burger_06.gif"
+        },
+        {
+          "id": "b69970c5-f685-4633-a3c6-37f32fd15e6d",
+          "type": "Credits / Team",
+          "visible": true,
+          "title": "Creative direction & design",
+          "text": "Mikha Gerges. Presented from the original supplied files; no invented client results."
+        },
+        {
+          "id": "5a8a9d9c-1a68-4ed6-bb30-5eb7ce077da9",
+          "type": "Next Project",
+          "visible": true
+        }
+      ]
+    },
+    {
+      "id": "a6b69734-68f7-57da-bd35-2295daef4ce0",
+      "title": "Limited Edition — connected carousel",
+      "type": "Social media",
+      "client": "",
+      "year": "",
+      "role": "Creative direction & design",
+      "notes": "An ordered collection of 6 supplied visuals, following the original project folder.",
+      "cover": "/examples/carousel-limited-edition-001.jpg",
+      "alt": "Limited Edition — connected carousel — complete composition",
+      "status": "Draft",
+      "visibility": "Private",
+      "featured": true,
+      "templateSample": "carousel-limited-edition",
+      "sourceFiles": [
+        "example-source-153",
+        "example-source-032",
+        "example-source-082",
+        "example-source-049",
+        "example-source-070",
+        "example-source-137"
+      ],
+      "blocks": [
+        {
+          "id": "df556707-1c0d-4154-85f6-49c818eab9be",
+          "type": "Project Intro",
+          "visible": true,
+          "title": "The collection",
+          "text": "An ordered collection of 6 supplied visuals, following the original project folder."
+        },
+        {
+          "id": "748fafe9-d4bb-4f7e-a10f-6137fb18e7e8",
+          "type": "Big Image",
+          "visible": true,
+          "image": "/examples/carousel-limited-edition-001.jpg",
+          "alt": "Why-does-“Limited-Edition_01.gif",
+          "sourceName": "Why-does-“Limited-Edition_01.gif"
+        },
+        {
+          "id": "18393fe5-3a5b-4832-a548-89ba58054f31",
+          "type": "Big Image",
+          "visible": true,
+          "image": "/examples/carousel-limited-edition-002.jpg",
+          "alt": "Why-does-“Limited-Edition_02.gif",
+          "sourceName": "Why-does-“Limited-Edition_02.gif"
+        },
+        {
+          "id": "ac5ab31a-68bd-4635-b717-9e4e4eb3f527",
+          "type": "Big Image",
+          "visible": true,
+          "image": "/examples/carousel-limited-edition-003.jpg",
+          "alt": "Why-does-“Limited-Edition_03.gif",
+          "sourceName": "Why-does-“Limited-Edition_03.gif"
+        },
+        {
+          "id": "a6a432bf-7054-409c-b7aa-e8d2cb691798",
+          "type": "Big Image",
+          "visible": true,
+          "image": "/examples/carousel-limited-edition-004.jpg",
+          "alt": "Why-does-“Limited-Edition_04.gif",
+          "sourceName": "Why-does-“Limited-Edition_04.gif"
+        },
+        {
+          "id": "0519681f-a17c-4b23-bfce-85004307d3b5",
+          "type": "Big Image",
+          "visible": true,
+          "image": "/examples/carousel-limited-edition-005.jpg",
+          "alt": "Why-does-“Limited-Edition_05.gif",
+          "sourceName": "Why-does-“Limited-Edition_05.gif"
+        },
+        {
+          "id": "00066e6e-d3c6-4267-be59-43d6b3389a1a",
+          "type": "Big Image",
+          "visible": true,
+          "image": "/examples/carousel-limited-edition-006.jpg",
+          "alt": "Why-does-“Limited-Edition_06.gif",
+          "sourceName": "Why-does-“Limited-Edition_06.gif"
+        },
+        {
+          "id": "87da7a46-da3c-4740-aa79-bcf0ca8b3185",
+          "type": "Credits / Team",
+          "visible": true,
+          "title": "Creative direction & design",
+          "text": "Mikha Gerges. Presented from the original supplied files; no invented client results."
+        },
+        {
+          "id": "21f75c80-4c40-4100-b113-e8dafaff1e52",
+          "type": "Next Project",
+          "visible": true
+        }
+      ]
+    },
+    {
+      "id": "3f4709b0-18cc-5117-948c-85842f7a9ee2",
+      "title": "Motion & moving stories",
+      "type": "Motion",
+      "client": "",
+      "year": "",
+      "role": "Creative direction & design",
+      "notes": "An ordered collection of 20 supplied motion and campaign files.",
+      "cover": "/examples/motion-002.jpg",
+      "alt": "Motion & moving stories — complete composition",
+      "status": "Draft",
+      "visibility": "Private",
+      "featured": true,
+      "templateSample": "motion",
+      "sourceFiles": [
+        "example-source-176",
+        "example-source-089",
+        "example-source-104",
+        "example-source-067",
+        "example-source-110",
+        "example-source-165",
+        "example-source-037",
+        "example-source-076",
+        "example-source-040",
+        "example-source-202",
+        "example-source-140",
+        "example-source-148",
+        "example-source-107",
+        "example-source-132",
+        "example-source-075",
+        "example-source-108",
+        "example-source-157",
+        "example-source-184",
+        "example-source-126",
+        "example-source-038"
+      ],
+      "blocks": [
+        {
+          "id": "bfc42ba9-4a83-47ff-9024-e7e996fe2653",
+          "type": "Project Intro",
+          "visible": true,
+          "title": "The collection",
+          "text": "An ordered collection of 20 supplied motion and campaign files."
+        },
+        {
+          "id": "77aa6623-f21a-4b44-9f4d-fa8b7a043f99",
+          "type": "Hosted Video",
+          "visible": true,
+          "url": "/examples/motion-001.mp4",
+          "title": "50% OFF.mp4",
+          "text": "",
+          "alt": "50% OFF.mp4"
+        },
+        {
+          "id": "d0f24aa3-41fd-47c2-b5f7-6acb0bf0e9e0",
+          "type": "Big Image",
+          "visible": true,
+          "image": "/examples/motion-002.jpg",
+          "alt": "84% of people buy because of UGC copy.jpg",
+          "sourceName": "84% of people buy because of UGC copy.jpg"
+        },
+        {
+          "id": "06f477a7-1301-4ec7-9160-203bf3fbdbe7",
+          "type": "Hosted Video",
+          "visible": true,
+          "url": "/examples/motion-003.mp4",
+          "title": "84% of people buy because of UGC.mp4",
+          "text": "",
+          "alt": "84% of people buy because of UGC.mp4"
+        },
+        {
+          "id": "ce28d0a6-d35d-4e3d-aaa3-bcb902e5d6c6",
+          "type": "Hosted Video",
+          "visible": true,
+          "url": "/examples/motion-004.mp4",
+          "title": "_MAIN_EDIT.mp4",
+          "text": "",
+          "alt": "_MAIN_EDIT.mp4"
+        },
+        {
+          "id": "7706cd1f-8c03-4eae-a04b-b0506d1257e7",
+          "type": "Hosted Video",
+          "visible": true,
+          "url": "/examples/motion-005.mp4",
+          "title": "Breakdown on the Road.mp4",
+          "text": "",
+          "alt": "Breakdown on the Road.mp4"
+        },
+        {
+          "id": "5d1776d1-f4f0-4d86-a5c3-ed71fce9f52a",
+          "type": "Hosted Video",
+          "visible": true,
+          "url": "/examples/motion-006.mp4",
+          "title": "Buy bjaj now.mp4",
+          "text": "",
+          "alt": "Buy bjaj now.mp4"
+        },
+        {
+          "id": "d5dbc47a-70b1-4b5e-a3d5-4c612d4f273a",
+          "type": "Hosted Video",
+          "visible": true,
+          "url": "/examples/motion-007.mp4",
+          "title": "Car Color.mp4",
+          "text": "",
+          "alt": "Car Color.mp4"
+        },
+        {
+          "id": "4be0d1ca-9d0d-48da-9a49-d11af934cdcc",
+          "type": "Hosted Video",
+          "visible": true,
+          "url": "/examples/motion-008.mp4",
+          "title": "deliver more.mp4",
+          "text": "",
+          "alt": "deliver more.mp4"
+        },
+        {
+          "id": "35251436-70f2-4231-9eb5-5ef25e93473f",
+          "type": "Hosted Video",
+          "visible": true,
+          "url": "/examples/motion-009.mp4",
+          "title": "Every Minute Off the Road.mp4",
+          "text": "",
+          "alt": "Every Minute Off the Road.mp4"
+        },
+        {
+          "id": "ec707735-1dc2-4ad0-b603-230245d8f726",
+          "type": "Hosted Video",
+          "visible": true,
+          "url": "/examples/motion-010.mp4",
+          "title": "expand smart, deliver faster.mp4",
+          "text": "",
+          "alt": "expand smart, deliver faster.mp4"
+        },
+        {
+          "id": "bc04a279-866a-48d8-9bde-5da5918a2bac",
+          "type": "Hosted Video",
+          "visible": true,
+          "url": "/examples/motion-011.mp4",
+          "title": "gif 2_1.mp4",
+          "text": "",
+          "alt": "gif 2_1.mp4"
+        },
+        {
+          "id": "d7127f8b-9bde-4994-96c7-a7302bee8528",
+          "type": "Hosted Video",
+          "visible": true,
+          "url": "/examples/motion-012.mp4",
+          "title": "Good Deals For Bajaj 2.mp4",
+          "text": "",
+          "alt": "Good Deals For Bajaj 2.mp4"
+        },
+        {
+          "id": "302ea9e4-510b-4a80-90e5-e330ffaef4ad",
+          "type": "Hosted Video",
+          "visible": true,
+          "url": "/examples/motion-013.mp4",
+          "title": "POST 3 - STATIC.mp4",
+          "text": "",
+          "alt": "POST 3 - STATIC.mp4"
+        },
+        {
+          "id": "7ce89739-4bf2-47c5-abd9-94528f79d8de",
+          "type": "Hosted Video",
+          "visible": true,
+          "url": "/examples/motion-014.mp4",
+          "title": "Real-Time Updates.mp4",
+          "text": "",
+          "alt": "Real-Time Updates.mp4"
+        },
+        {
+          "id": "6c59e734-4de9-4ed6-9b2a-81d3542a7edc",
+          "type": "Hosted Video",
+          "visible": true,
+          "url": "/examples/motion-015.mp4",
+          "title": "Repair in progress.mp4",
+          "text": "",
+          "alt": "Repair in progress.mp4"
+        },
+        {
+          "id": "fcc9d9d7-b91f-4f9e-b0b1-5cb9e3ec5456",
+          "type": "Hosted Video",
+          "visible": true,
+          "url": "/examples/motion-016.mp4",
+          "title": "switch to UGC.mp4",
+          "text": "",
+          "alt": "switch to UGC.mp4"
+        },
+        {
+          "id": "3debe29c-2ef7-4564-9523-5e0eeda3741d",
+          "type": "Hosted Video",
+          "visible": true,
+          "url": "/examples/motion-017.mp4",
+          "title": "Vid1.mp4",
+          "text": "",
+          "alt": "Vid1.mp4"
+        },
+        {
+          "id": "820a70a4-270c-4972-b8fc-dc140b1b369e",
+          "type": "Hosted Video",
+          "visible": true,
+          "url": "/examples/motion-018.mp4",
+          "title": "Wikmedia services.mp4",
+          "text": "",
+          "alt": "Wikmedia services.mp4"
+        },
+        {
+          "id": "9b290a48-ccd2-4606-b171-81a2a8888f56",
+          "type": "Hosted Video",
+          "visible": true,
+          "url": "/examples/motion-019.mp4",
+          "title": "تحريكه بالافتر_3.mp4",
+          "text": "",
+          "alt": "تحريكه بالافتر_3.mp4"
+        },
+        {
+          "id": "c1eac4ac-2fe4-4b9a-a2fd-abc40a670362",
+          "type": "Hosted Video",
+          "visible": true,
+          "url": "/examples/motion-020.mp4",
+          "title": "خصم 20 %.mp4",
+          "text": "",
+          "alt": "خصم 20 %.mp4"
+        },
+        {
+          "id": "a1a4649b-2874-4db8-a44a-ccd54b143e30",
+          "type": "Credits / Team",
+          "visible": true,
+          "title": "Creative direction & design",
+          "text": "Mikha Gerges. Presented from the original supplied files; no invented client results."
+        },
+        {
+          "id": "71bcb922-6eb8-49a6-9225-2ed0db61e3b3",
+          "type": "Next Project",
+          "visible": true
+        }
+      ]
+    }
+  ],
+  "inventory": [
+    {
+      "id": "example-source-001",
+      "name": "Artboard 5.jpg",
+      "group": "automotive",
+      "mime": "image/jpeg",
+      "size": 288730,
+      "extension": ".jpg"
+    },
+    {
+      "id": "example-source-002",
+      "name": "Artboard 4 (2).jpg",
+      "group": "Realestate",
+      "mime": "image/jpeg",
+      "size": 654453,
+      "extension": ".jpg"
+    },
+    {
+      "id": "example-source-003",
+      "name": "Artboard 4 (2).jpg",
+      "group": "Marketing",
+      "mime": "image/jpeg",
+      "size": 561494,
+      "extension": ".jpg"
+    },
+    {
+      "id": "example-source-004",
+      "name": "عمو نويل.jpg",
+      "group": "automotive",
+      "mime": "image/jpeg",
+      "size": 837495,
+      "extension": ".jpg"
+    },
+    {
+      "id": "example-source-005",
+      "name": "38-Why-does-McDonald’s-barely-need-to-show-the-burger_01.gif",
+      "group": "Carousel · McDonald's",
+      "mime": "image/gif",
+      "size": 48649,
+      "extension": ".gif"
+    },
+    {
+      "id": "example-source-006",
+      "name": "Artboard 3.png",
+      "group": "semi collage",
+      "mime": "image/png",
+      "size": 205355,
+      "extension": ".png"
+    },
+    {
+      "id": "example-source-007",
+      "name": "2.jpg",
+      "group": "Realestate",
+      "mime": "image/jpeg",
+      "size": 598184,
+      "extension": ".jpg"
+    },
+    {
+      "id": "example-source-008",
+      "name": "Artboard 2.jpg",
+      "group": "Marketing",
+      "mime": "image/jpeg",
+      "size": 596041,
+      "extension": ".jpg"
+    },
+    {
+      "id": "example-source-009",
+      "name": "Artboard 4 (2).jpg",
+      "group": "Realestate",
+      "mime": "image/jpeg",
+      "size": 522732,
+      "extension": ".jpg"
+    },
+    {
+      "id": "example-source-010",
+      "name": "Artboard 2 (2).png",
+      "group": "Cafe",
+      "mime": "image/png",
+      "size": 2964188,
+      "extension": ".png"
+    },
+    {
+      "id": "example-source-011",
+      "name": "Artboard 3.png",
+      "group": "Cafe",
+      "mime": "image/png",
+      "size": 3210930,
+      "extension": ".png"
+    },
+    {
+      "id": "example-source-012",
+      "name": "1 (1).jpg",
+      "group": "Realestate",
+      "mime": "image/jpeg",
+      "size": 1155391,
+      "extension": ".jpg"
+    },
+    {
+      "id": "example-source-013",
+      "name": "Artboard 3 (1).png",
+      "group": "automotive",
+      "mime": "image/png",
+      "size": 1701404,
+      "extension": ".png"
+    },
+    {
+      "id": "example-source-014",
+      "name": "Happy.jpg",
+      "group": "automotive",
+      "mime": "image/jpeg",
+      "size": 999091,
+      "extension": ".jpg"
+    },
+    {
+      "id": "example-source-015",
+      "name": "Artboard 3.jpg",
+      "group": "Marketing",
+      "mime": "image/jpeg",
+      "size": 690825,
+      "extension": ".jpg"
+    },
+    {
+      "id": "example-source-016",
+      "name": "Artboard 4 (1).png",
+      "group": "Cafe",
+      "mime": "image/png",
+      "size": 2607458,
+      "extension": ".png"
+    },
+    {
+      "id": "example-source-017",
+      "name": "Artboard 1.png",
+      "group": "Cafe",
+      "mime": "image/png",
+      "size": 3281249,
+      "extension": ".png"
+    },
+    {
+      "id": "example-source-018",
+      "name": "3 (1).jpg",
+      "group": "Realestate",
+      "mime": "image/jpeg",
+      "size": 468918,
+      "extension": ".jpg"
+    },
+    {
+      "id": "example-source-019",
+      "name": "5.jpg",
+      "group": "Coffee Beans",
+      "mime": "image/jpeg",
+      "size": 517568,
+      "extension": ".jpg"
+    },
+    {
+      "id": "example-source-020",
+      "name": "Book it from anywhere, and pick it copy.jpg",
+      "group": "automotive",
+      "mime": "image/jpeg",
+      "size": 917852,
+      "extension": ".jpg"
+    },
+    {
+      "id": "example-source-021",
+      "name": "Concept Presentation copy.pdf",
+      "group": "Branding",
+      "mime": "application/pdf",
+      "size": 9504626,
+      "extension": ".pdf"
+    },
+    {
+      "id": "example-source-022",
+      "name": "Artboard 4.jpg",
+      "group": "automotive",
+      "mime": "image/jpeg",
+      "size": 432481,
+      "extension": ".jpg"
+    },
+    {
+      "id": "example-source-023",
+      "name": "اللاند عشان عيون صبري.jpg",
+      "group": "automotive",
+      "mime": "image/jpeg",
+      "size": 935777,
+      "extension": ".jpg"
+    },
+    {
+      "id": "example-source-024",
+      "name": "Artboard 4.jpg",
+      "group": "Realestate",
+      "mime": "image/jpeg",
+      "size": 624161,
+      "extension": ".jpg"
+    },
+    {
+      "id": "example-source-025",
+      "name": "Artboard 7.png",
+      "group": "Cafe",
+      "mime": "image/png",
+      "size": 3105093,
+      "extension": ".png"
+    },
+    {
+      "id": "example-source-026",
+      "name": "Real - Perfect. copy.jpg",
+      "group": "semi collage",
+      "mime": "image/jpeg",
+      "size": 379803,
+      "extension": ".jpg"
+    },
+    {
+      "id": "example-source-027",
+      "name": "Artboard 6.jpg",
+      "group": "Marketing",
+      "mime": "image/jpeg",
+      "size": 660869,
+      "extension": ".jpg"
+    },
+    {
+      "id": "example-source-028",
+      "name": "Artboard 4 (1).jpg",
+      "group": "Realestate",
+      "mime": "image/jpeg",
+      "size": 649761,
+      "extension": ".jpg"
+    },
+    {
+      "id": "example-source-029",
+      "name": "23-Complete-Marketing-Package copy.jpg",
+      "group": "Marketing",
+      "mime": "image/jpeg",
+      "size": 1410972,
+      "extension": ".jpg"
+    },
+    {
+      "id": "example-source-030",
+      "name": "Artboard 3 (1).jpg",
+      "group": "Marketing",
+      "mime": "image/jpeg",
+      "size": 544435,
+      "extension": ".jpg"
+    },
+    {
+      "id": "example-source-031",
+      "name": "Artboard 6.jpg",
+      "group": "automotive",
+      "mime": "image/jpeg",
+      "size": 360102,
+      "extension": ".jpg"
+    },
+    {
+      "id": "example-source-032",
+      "name": "Why-does-“Limited-Edition_02.gif",
+      "group": "Carousel · Limited Edition",
+      "mime": "image/gif",
+      "size": 229481,
+      "extension": ".gif"
+    },
+    {
+      "id": "example-source-033",
+      "name": "Artboard 5 (2).jpg",
+      "group": "Realestate",
+      "mime": "image/jpeg",
+      "size": 531442,
+      "extension": ".jpg"
+    },
+    {
+      "id": "example-source-034",
+      "name": "Artboard 3 (2).png",
+      "group": "Cafe",
+      "mime": "image/png",
+      "size": 3080452,
+      "extension": ".png"
+    },
+    {
+      "id": "example-source-035",
+      "name": "Be Honest.png",
+      "group": "Cafe",
+      "mime": "image/png",
+      "size": 1486009,
+      "extension": ".png"
+    },
+    {
+      "id": "example-source-036",
+      "name": "Artboard 2 (1).png",
+      "group": "Cafe",
+      "mime": "image/png",
+      "size": 2884643,
+      "extension": ".png"
+    },
+    {
+      "id": "example-source-037",
+      "name": "Car Color.mp4",
+      "group": "Motion",
+      "mime": "video/mp4",
+      "size": 6765868,
+      "extension": ".mp4"
+    },
+    {
+      "id": "example-source-038",
+      "name": "خصم 20 %.mp4",
+      "group": "Motion",
+      "mime": "video/mp4",
+      "size": 28854497,
+      "extension": ".mp4"
+    },
+    {
+      "id": "example-source-039",
+      "name": "Artboard 12.jpg",
+      "group": "automotive",
+      "mime": "image/jpeg",
+      "size": 425827,
+      "extension": ".jpg"
+    },
+    {
+      "id": "example-source-040",
+      "name": "Every Minute Off the Road.mp4",
+      "group": "Motion",
+      "mime": "video/mp4",
+      "size": 19363067,
+      "extension": ".mp4"
+    },
+    {
+      "id": "example-source-041",
+      "name": "Artboard 3.png",
+      "group": "Realestate",
+      "mime": "image/png",
+      "size": 2315168,
+      "extension": ".png"
+    },
+    {
+      "id": "example-source-042",
+      "name": "Artboard 6.png",
+      "group": "Cafe",
+      "mime": "image/png",
+      "size": 3403741,
+      "extension": ".png"
+    },
+    {
+      "id": "example-source-043",
+      "name": "20-Brand-Identity copy.jpg",
+      "group": "Marketing",
+      "mime": "image/jpeg",
+      "size": 1349395,
+      "extension": ".jpg"
+    },
+    {
+      "id": "example-source-044",
+      "name": "Artboard 6.png",
+      "group": "Marketing",
+      "mime": "image/png",
+      "size": 2015033,
+      "extension": ".png"
+    },
+    {
+      "id": "example-source-045",
+      "name": "Artboard 2 (1).png",
+      "group": "automotive",
+      "mime": "image/png",
+      "size": 1774198,
+      "extension": ".png"
+    },
+    {
+      "id": "example-source-046",
+      "name": "Artboard 3 (1).jpg",
+      "group": "Realestate",
+      "mime": "image/jpeg",
+      "size": 564006,
+      "extension": ".jpg"
+    },
+    {
+      "id": "example-source-047",
+      "name": "Artboard 11.jpg",
+      "group": "automotive",
+      "mime": "image/jpeg",
+      "size": 174279,
+      "extension": ".jpg"
+    },
+    {
+      "id": "example-source-048",
+      "name": "POST 4.png",
+      "group": "Cafe",
+      "mime": "image/png",
+      "size": 2230944,
+      "extension": ".png"
+    },
+    {
+      "id": "example-source-049",
+      "name": "Why-does-“Limited-Edition_04.gif",
+      "group": "Carousel · Limited Edition",
+      "mime": "image/gif",
+      "size": 128972,
+      "extension": ".gif"
+    },
+    {
+      "id": "example-source-050",
+      "name": "Artboard 4.png",
+      "group": "Marketing",
+      "mime": "image/png",
+      "size": 1989128,
+      "extension": ".png"
+    },
+    {
+      "id": "example-source-051",
+      "name": "Artboard 1.png",
+      "group": "semi collage",
+      "mime": "image/png",
+      "size": 549123,
+      "extension": ".png"
+    },
+    {
+      "id": "example-source-052",
+      "name": "Artboard 7.jpg",
+      "group": "automotive",
+      "mime": "image/jpeg",
+      "size": 315141,
+      "extension": ".jpg"
+    },
+    {
+      "id": "example-source-053",
+      "name": "Artboard 2 (1).jpg",
+      "group": "automotive",
+      "mime": "image/jpeg",
+      "size": 307866,
+      "extension": ".jpg"
+    },
+    {
+      "id": "example-source-054",
+      "name": "COFFEE IS MORE THAN A DRINK. copy.jpg",
+      "group": "Cafe",
+      "mime": "image/jpeg",
+      "size": 1559673,
+      "extension": ".jpg"
+    },
+    {
+      "id": "example-source-055",
+      "name": "37 GIF Drink falling copy.jpg",
+      "group": "Cafe",
+      "mime": "image/jpeg",
+      "size": 402861,
+      "extension": ".jpg"
+    },
+    {
+      "id": "example-source-056",
+      "name": "Artboard 6 (1).jpg",
+      "group": "Marketing",
+      "mime": "image/jpeg",
+      "size": 515656,
+      "extension": ".jpg"
+    },
+    {
+      "id": "example-source-057",
+      "name": "Artboard 2 (2).jpg",
+      "group": "Marketing",
+      "mime": "image/jpeg",
+      "size": 578769,
+      "extension": ".jpg"
+    },
+    {
+      "id": "example-source-058",
+      "name": "Artboard 10.png",
+      "group": "semi collage",
+      "mime": "image/png",
+      "size": 399774,
+      "extension": ".png"
+    },
+    {
+      "id": "example-source-059",
+      "name": "Artboard 14.jpg",
+      "group": "automotive",
+      "mime": "image/jpeg",
+      "size": 296689,
+      "extension": ".jpg"
+    },
+    {
+      "id": "example-source-060",
+      "name": "38-Why-does-McDonald’s-barely-need-to-show-the-burger_02.gif",
+      "group": "Carousel · McDonald's",
+      "mime": "image/gif",
+      "size": 210103,
+      "extension": ".gif"
+    },
+    {
+      "id": "example-source-061",
+      "name": "Artboard 9.jpg",
+      "group": "automotive",
+      "mime": "image/jpeg",
+      "size": 274829,
+      "extension": ".jpg"
+    },
+    {
+      "id": "example-source-062",
+      "name": "Artboard 2.png",
+      "group": "Marketing",
+      "mime": "image/png",
+      "size": 2102849,
+      "extension": ".png"
+    },
+    {
+      "id": "example-source-063",
+      "name": "Artboard 1 (1).png",
+      "group": "Cafe",
+      "mime": "image/png",
+      "size": 3041733,
+      "extension": ".png"
+    },
+    {
+      "id": "example-source-064",
+      "name": "Artboard 10 (1).jpg",
+      "group": "automotive",
+      "mime": "image/jpeg",
+      "size": 271081,
+      "extension": ".jpg"
+    },
+    {
+      "id": "example-source-065",
+      "name": "Artboard 4.jpg",
+      "group": "Marketing",
+      "mime": "image/jpeg",
+      "size": 604722,
+      "extension": ".jpg"
+    },
+    {
+      "id": "example-source-066",
+      "name": "Artboard 9.png",
+      "group": "semi collage",
+      "mime": "image/png",
+      "size": 1177123,
+      "extension": ".png"
+    },
+    {
+      "id": "example-source-067",
+      "name": "_MAIN_EDIT.mp4",
+      "group": "Motion",
+      "mime": "video/mp4",
+      "size": 49593150,
+      "extension": ".mp4"
+    },
+    {
+      "id": "example-source-068",
+      "name": "UGC Sells More Than Influencers. copy.jpg",
+      "group": "semi collage",
+      "mime": "image/jpeg",
+      "size": 687490,
+      "extension": ".jpg"
+    },
+    {
+      "id": "example-source-069",
+      "name": "Artboard 16.jpg",
+      "group": "automotive",
+      "mime": "image/jpeg",
+      "size": 501597,
+      "extension": ".jpg"
+    },
+    {
+      "id": "example-source-070",
+      "name": "Why-does-“Limited-Edition_05.gif",
+      "group": "Carousel · Limited Edition",
+      "mime": "image/gif",
+      "size": 219661,
+      "extension": ".gif"
+    },
+    {
+      "id": "example-source-071",
+      "name": "Artboard 1 (2).jpg",
+      "group": "Marketing",
+      "mime": "image/jpeg",
+      "size": 463879,
+      "extension": ".jpg"
+    },
+    {
+      "id": "example-source-072",
+      "name": "Artboard 1 (1).jpg",
+      "group": "Marketing",
+      "mime": "image/jpeg",
+      "size": 680580,
+      "extension": ".jpg"
+    },
+    {
+      "id": "example-source-073",
+      "name": "Artboard 5 (1).jpg",
+      "group": "Realestate",
+      "mime": "image/jpeg",
+      "size": 697304,
+      "extension": ".jpg"
+    },
+    {
+      "id": "example-source-074",
+      "name": "Artboard 4 (1).png",
+      "group": "automotive",
+      "mime": "image/png",
+      "size": 2134347,
+      "extension": ".png"
+    },
+    {
+      "id": "example-source-075",
+      "name": "Repair in progress.mp4",
+      "group": "Motion",
+      "mime": "video/mp4",
+      "size": 17307492,
+      "extension": ".mp4"
+    },
+    {
+      "id": "example-source-076",
+      "name": "deliver more.mp4",
+      "group": "Motion",
+      "mime": "video/mp4",
+      "size": 18368177,
+      "extension": ".mp4"
+    },
+    {
+      "id": "example-source-077",
+      "name": "2 (1).jpg",
+      "group": "Realestate",
+      "mime": "image/jpeg",
+      "size": 819817,
+      "extension": ".jpg"
+    },
+    {
+      "id": "example-source-078",
+      "name": "Artboard 1.png",
+      "group": "Marketing",
+      "mime": "image/png",
+      "size": 2127084,
+      "extension": ".png"
+    },
+    {
+      "id": "example-source-079",
+      "name": "The wait will be worth it story copy.jpg",
+      "group": "Cafe",
+      "mime": "image/jpeg",
+      "size": 1011007,
+      "extension": ".jpg"
+    },
+    {
+      "id": "example-source-080",
+      "name": "22-Remote-Marketing-Team-Europe copy.jpg",
+      "group": "Marketing",
+      "mime": "image/jpeg",
+      "size": 1449859,
+      "extension": ".jpg"
+    },
+    {
+      "id": "example-source-081",
+      "name": "Artboard 4 (1).png",
+      "group": "Cafe",
+      "mime": "image/png",
+      "size": 3069564,
+      "extension": ".png"
+    },
+    {
+      "id": "example-source-082",
+      "name": "Why-does-“Limited-Edition_03.gif",
+      "group": "Carousel · Limited Edition",
+      "mime": "image/gif",
+      "size": 218730,
+      "extension": ".gif"
+    },
+    {
+      "id": "example-source-083",
+      "name": "فرق تشوفه بعينك copy.jpg",
+      "group": "Moto",
+      "mime": "image/jpeg",
+      "size": 945809,
+      "extension": ".jpg"
+    },
+    {
+      "id": "example-source-084",
+      "name": "TOV Bajaj من Golden Whee copy.jpg",
+      "group": "Moto",
+      "mime": "image/jpeg",
+      "size": 975550,
+      "extension": ".jpg"
+    },
+    {
+      "id": "example-source-085",
+      "name": "Artboard 2 (2).jpg",
+      "group": "Realestate",
+      "mime": "image/jpeg",
+      "size": 635239,
+      "extension": ".jpg"
+    },
+    {
+      "id": "example-source-086",
+      "name": "Artboard 4.png",
+      "group": "semi collage",
+      "mime": "image/png",
+      "size": 1351332,
+      "extension": ".png"
+    },
+    {
+      "id": "example-source-087",
+      "name": "Artboard 5.png",
+      "group": "Marketing",
+      "mime": "image/png",
+      "size": 2117611,
+      "extension": ".png"
+    },
+    {
+      "id": "example-source-088",
+      "name": "3.jpg",
+      "group": "Coffee Beans",
+      "mime": "image/jpeg",
+      "size": 572300,
+      "extension": ".jpg"
+    },
+    {
+      "id": "example-source-089",
+      "name": "84% of people buy because of UGC copy.jpg",
+      "group": "Motion",
+      "mime": "image/jpeg",
+      "size": 1855975,
+      "extension": ".jpg"
+    },
+    {
+      "id": "example-source-090",
+      "name": "Presentation 1718 copy.pdf",
+      "group": "Presentation",
+      "mime": "application/pdf",
+      "size": 3251553,
+      "extension": ".pdf"
+    },
+    {
+      "id": "example-source-091",
+      "name": "Artboard 7.png",
+      "group": "Marketing",
+      "mime": "image/png",
+      "size": 1988236,
+      "extension": ".png"
+    },
+    {
+      "id": "example-source-092",
+      "name": "Artboard 5 (3).jpg",
+      "group": "Realestate",
+      "mime": "image/jpeg",
+      "size": 469127,
+      "extension": ".jpg"
+    },
+    {
+      "id": "example-source-093",
+      "name": "Create the buzz with Brand Boost copy.jpg",
+      "group": "semi collage",
+      "mime": "image/jpeg",
+      "size": 539464,
+      "extension": ".jpg"
+    },
+    {
+      "id": "example-source-094",
+      "name": "2.jpg",
+      "group": "Coffee Beans",
+      "mime": "image/jpeg",
+      "size": 613914,
+      "extension": ".jpg"
+    },
+    {
+      "id": "example-source-095",
+      "name": "Artboard 1 (2).jpg",
+      "group": "Realestate",
+      "mime": "image/jpeg",
+      "size": 585460,
+      "extension": ".jpg"
+    },
+    {
+      "id": "example-source-096",
+      "name": "38-Why-does-McDonald’s-barely-need-to-show-the-burger_05.gif",
+      "group": "Carousel · McDonald's",
+      "mime": "image/gif",
+      "size": 240358,
+      "extension": ".gif"
+    },
+    {
+      "id": "example-source-097",
+      "name": "كل كم تغير زيت دراجتك copy.jpg",
+      "group": "Moto",
+      "mime": "image/jpeg",
+      "size": 841273,
+      "extension": ".jpg"
+    },
+    {
+      "id": "example-source-098",
+      "name": "Artboard 2.png",
+      "group": "Realestate",
+      "mime": "image/png",
+      "size": 1948372,
+      "extension": ".png"
+    },
+    {
+      "id": "example-source-099",
+      "name": "Artboard 1.jpg",
+      "group": "Realestate",
+      "mime": "image/jpeg",
+      "size": 953272,
+      "extension": ".jpg"
+    },
+    {
+      "id": "example-source-100",
+      "name": "Forget ads. Think conversations. copy.jpg",
+      "group": "semi collage",
+      "mime": "image/jpeg",
+      "size": 1699796,
+      "extension": ".jpg"
+    },
+    {
+      "id": "example-source-101",
+      "name": "Cozy Cafe",
+      "group": "Branding",
+      "mime": "application/pdf",
+      "size": 12404199,
+      "extension": ".pdf"
+    },
+    {
+      "id": "example-source-102",
+      "name": "Post 3 copy.png",
+      "group": "Realestate",
+      "mime": "image/png",
+      "size": 876266,
+      "extension": ".png"
+    },
+    {
+      "id": "example-source-103",
+      "name": "Artboard 3 (2).jpg",
+      "group": "Realestate",
+      "mime": "image/jpeg",
+      "size": 648468,
+      "extension": ".jpg"
+    },
+    {
+      "id": "example-source-104",
+      "name": "84% of people buy because of UGC.mp4",
+      "group": "Motion",
+      "mime": "video/mp4",
+      "size": 12723537,
+      "extension": ".mp4"
+    },
+    {
+      "id": "example-source-105",
+      "name": "Artboard 2.png",
+      "group": "Cafe",
+      "mime": "image/png",
+      "size": 2813377,
+      "extension": ".png"
+    },
+    {
+      "id": "example-source-106",
+      "name": "Artboard 5 (1).png",
+      "group": "Cafe",
+      "mime": "image/png",
+      "size": 2938408,
+      "extension": ".png"
+    },
+    {
+      "id": "example-source-107",
+      "name": "POST 3 - STATIC.mp4",
+      "group": "Motion",
+      "mime": "video/mp4",
+      "size": 20243503,
+      "extension": ".mp4"
+    },
+    {
+      "id": "example-source-108",
+      "name": "switch to UGC.mp4",
+      "group": "Motion",
+      "mime": "video/mp4",
+      "size": 20086065,
+      "extension": ".mp4"
+    },
+    {
+      "id": "example-source-109",
+      "name": "38-Why-does-McDonald’s-barely-need-to-show-the-burger_06.gif",
+      "group": "Carousel · McDonald's",
+      "mime": "image/gif",
+      "size": 32019,
+      "extension": ".gif"
+    },
+    {
+      "id": "example-source-110",
+      "name": "Breakdown on the Road.mp4",
+      "group": "Motion",
+      "mime": "video/mp4",
+      "size": 3487462,
+      "extension": ".mp4"
+    },
+    {
+      "id": "example-source-111",
+      "name": "Artboard 5.jpg",
+      "group": "Marketing",
+      "mime": "image/jpeg",
+      "size": 583894,
+      "extension": ".jpg"
+    },
+    {
+      "id": "example-source-112",
+      "name": "Artboard 4.png",
+      "group": "Realestate",
+      "mime": "image/png",
+      "size": 2196164,
+      "extension": ".png"
+    },
+    {
+      "id": "example-source-113",
+      "name": "3.jpg",
+      "group": "Realestate",
+      "mime": "image/jpeg",
+      "size": 422245,
+      "extension": ".jpg"
+    },
+    {
+      "id": "example-source-114",
+      "name": "HILLS Brand GuidLines copy.pdf",
+      "group": "Branding",
+      "mime": "application/pdf",
+      "size": 31952046,
+      "extension": ".pdf"
+    },
+    {
+      "id": "example-source-115",
+      "name": "Artboard 3 (2).jpg",
+      "group": "Marketing",
+      "mime": "image/jpeg",
+      "size": 479507,
+      "extension": ".jpg"
+    },
+    {
+      "id": "example-source-116",
+      "name": "Artboard 4.png",
+      "group": "Cafe",
+      "mime": "image/png",
+      "size": 3039385,
+      "extension": ".png"
+    },
+    {
+      "id": "example-source-117",
+      "name": "اليوم الوطني السعودي copy.jpg",
+      "group": "Coffee Beans",
+      "mime": "image/jpeg",
+      "size": 1325358,
+      "extension": ".jpg"
+    },
+    {
+      "id": "example-source-118",
+      "name": "القطعة الاصلية.png",
+      "group": "Moto",
+      "mime": "image/png",
+      "size": 1926013,
+      "extension": ".png"
+    },
+    {
+      "id": "example-source-119",
+      "name": "Artboard 7.png",
+      "group": "semi collage",
+      "mime": "image/png",
+      "size": 1690935,
+      "extension": ".png"
+    },
+    {
+      "id": "example-source-120",
+      "name": "Artboard 5 (1).jpg",
+      "group": "Marketing",
+      "mime": "image/jpeg",
+      "size": 575763,
+      "extension": ".jpg"
+    },
+    {
+      "id": "example-source-121",
+      "name": "Artboard 2 (1).jpg",
+      "group": "Marketing",
+      "mime": "image/jpeg",
+      "size": 718820,
+      "extension": ".jpg"
+    },
+    {
+      "id": "example-source-122",
+      "name": "Artboard 2.png",
+      "group": "semi collage",
+      "mime": "image/png",
+      "size": 228332,
+      "extension": ".png"
+    },
+    {
+      "id": "example-source-123",
+      "name": "Artboard 12 (1).jpg",
+      "group": "automotive",
+      "mime": "image/jpeg",
+      "size": 352658,
+      "extension": ".jpg"
+    },
+    {
+      "id": "example-source-124",
+      "name": "Artboard 3 (1).png",
+      "group": "Cafe",
+      "mime": "image/png",
+      "size": 2834957,
+      "extension": ".png"
+    },
+    {
+      "id": "example-source-125",
+      "name": "4.jpg",
+      "group": "Realestate",
+      "mime": "image/jpeg",
+      "size": 595177,
+      "extension": ".jpg"
+    },
+    {
+      "id": "example-source-126",
+      "name": "تحريكه بالافتر_3.mp4",
+      "group": "Motion",
+      "mime": "video/mp4",
+      "size": 36620629,
+      "extension": ".mp4"
+    },
+    {
+      "id": "example-source-127",
+      "name": "Artboard 5.png",
+      "group": "semi collage",
+      "mime": "image/png",
+      "size": 993459,
+      "extension": ".png"
+    },
+    {
+      "id": "example-source-128",
+      "name": "Artboard 10.jpg",
+      "group": "automotive",
+      "mime": "image/jpeg",
+      "size": 268210,
+      "extension": ".jpg"
+    },
+    {
+      "id": "example-source-129",
+      "name": "84% of people buy because of UGC copy.jpg",
+      "group": "semi collage",
+      "mime": "image/jpeg",
+      "size": 1855975,
+      "extension": ".jpg"
+    },
+    {
+      "id": "example-source-130",
+      "name": "Artboard 1 (2).png",
+      "group": "Cafe",
+      "mime": "image/png",
+      "size": 1943060,
+      "extension": ".png"
+    },
+    {
+      "id": "example-source-131",
+      "name": "Artboard 3.png",
+      "group": "Cafe",
+      "mime": "image/png",
+      "size": 3097579,
+      "extension": ".png"
+    },
+    {
+      "id": "example-source-132",
+      "name": "Real-Time Updates.mp4",
+      "group": "Motion",
+      "mime": "video/mp4",
+      "size": 15904662,
+      "extension": ".mp4"
+    },
+    {
+      "id": "example-source-133",
+      "name": "Artboard 1 (2).png",
+      "group": "automotive",
+      "mime": "image/png",
+      "size": 2072059,
+      "extension": ".png"
+    },
+    {
+      "id": "example-source-134",
+      "name": "Artboard 2 (2).jpg",
+      "group": "Marketing",
+      "mime": "image/jpeg",
+      "size": 547149,
+      "extension": ".jpg"
+    },
+    {
+      "id": "example-source-135",
+      "name": "19-SEO copy.jpg",
+      "group": "Marketing",
+      "mime": "image/jpeg",
+      "size": 1303360,
+      "extension": ".jpg"
+    },
+    {
+      "id": "example-source-136",
+      "name": "Artboard 1.png",
+      "group": "Cafe",
+      "mime": "image/png",
+      "size": 3178590,
+      "extension": ".png"
+    },
+    {
+      "id": "example-source-137",
+      "name": "Why-does-“Limited-Edition_06.gif",
+      "group": "Carousel · Limited Edition",
+      "mime": "image/gif",
+      "size": 151806,
+      "extension": ".gif"
+    },
+    {
+      "id": "example-source-138",
+      "name": "switch to UGC copy.jpg",
+      "group": "semi collage",
+      "mime": "image/jpeg",
+      "size": 1024534,
+      "extension": ".jpg"
+    },
+    {
+      "id": "example-source-139",
+      "name": "Artboard 4 (1).jpg",
+      "group": "Marketing",
+      "mime": "image/jpeg",
+      "size": 554387,
+      "extension": ".jpg"
+    },
+    {
+      "id": "example-source-140",
+      "name": "gif 2_1.mp4",
+      "group": "Motion",
+      "mime": "video/mp4",
+      "size": 25693899,
+      "extension": ".mp4"
+    },
+    {
+      "id": "example-source-141",
+      "name": "Artboard 1.jpg",
+      "group": "automotive",
+      "mime": "image/jpeg",
+      "size": 252883,
+      "extension": ".jpg"
+    },
+    {
+      "id": "example-source-142",
+      "name": "Post 2 copy.png",
+      "group": "Realestate",
+      "mime": "image/png",
+      "size": 2246317,
+      "extension": ".png"
+    },
+    {
+      "id": "example-source-143",
+      "name": "37 GIF Drink falling.mp4",
+      "group": "Cafe",
+      "mime": "video/mp4",
+      "size": 10446188,
+      "extension": ".mp4"
+    },
+    {
+      "id": "example-source-144",
+      "name": "Artboard 2 (1).png",
+      "group": "automotive",
+      "mime": "image/png",
+      "size": 2234299,
+      "extension": ".png"
+    },
+    {
+      "id": "example-source-145",
+      "name": "كل مشوار يبدأ بزر التشغيل copy.jpg",
+      "group": "Moto",
+      "mime": "image/jpeg",
+      "size": 742573,
+      "extension": ".jpg"
+    },
+    {
+      "id": "example-source-146",
+      "name": "38-Why-does-McDonald’s-barely-need-to-show-the-burger_03.gif",
+      "group": "Carousel · McDonald's",
+      "mime": "image/gif",
+      "size": 227405,
+      "extension": ".gif"
+    },
+    {
+      "id": "example-source-147",
+      "name": "Artboard 13.jpg",
+      "group": "automotive",
+      "mime": "image/jpeg",
+      "size": 356531,
+      "extension": ".jpg"
+    },
+    {
+      "id": "example-source-148",
+      "name": "Good Deals For Bajaj 2.mp4",
+      "group": "Motion",
+      "mime": "video/mp4",
+      "size": 8143119,
+      "extension": ".mp4"
+    },
+    {
+      "id": "example-source-149",
+      "name": "Join the fastest-growing UGC creator community copy.jpg",
+      "group": "semi collage",
+      "mime": "image/jpeg",
+      "size": 1269420,
+      "extension": ".jpg"
+    },
+    {
+      "id": "example-source-150",
+      "name": "HAPP.jpg",
+      "group": "automotive",
+      "mime": "image/jpeg",
+      "size": 904907,
+      "extension": ".jpg"
+    },
+    {
+      "id": "example-source-151",
+      "name": "Artboard 8.png",
+      "group": "semi collage",
+      "mime": "image/png",
+      "size": 999479,
+      "extension": ".png"
+    },
+    {
+      "id": "example-source-152",
+      "name": "Artboard 7 (1).jpg",
+      "group": "Marketing",
+      "mime": "image/jpeg",
+      "size": 511647,
+      "extension": ".jpg"
+    },
+    {
+      "id": "example-source-153",
+      "name": "Why-does-“Limited-Edition_01.gif",
+      "group": "Carousel · Limited Edition",
+      "mime": "image/gif",
+      "size": 291309,
+      "extension": ".gif"
+    },
+    {
+      "id": "example-source-154",
+      "name": "1.jpg",
+      "group": "Coffee Beans",
+      "mime": "image/jpeg",
+      "size": 537688,
+      "extension": ".jpg"
+    },
+    {
+      "id": "example-source-155",
+      "name": "Reel Don't Blink.mp4",
+      "group": "Cafe",
+      "mime": "video/mp4",
+      "size": 5708851,
+      "extension": ".mp4"
+    },
+    {
+      "id": "example-source-156",
+      "name": "Artboard 9 (1).jpg",
+      "group": "automotive",
+      "mime": "image/jpeg",
+      "size": 276317,
+      "extension": ".jpg"
+    },
+    {
+      "id": "example-source-157",
+      "name": "Vid1.mp4",
+      "group": "Motion",
+      "mime": "video/mp4",
+      "size": 2606662,
+      "extension": ".mp4"
+    },
+    {
+      "id": "example-source-158",
+      "name": "UGC is what makes the real difference copy.jpg",
+      "group": "semi collage",
+      "mime": "image/jpeg",
+      "size": 913133,
+      "extension": ".jpg"
+    },
+    {
+      "id": "example-source-159",
+      "name": "Artboard 4 (1).png",
+      "group": "Cafe",
+      "mime": "image/png",
+      "size": 3027211,
+      "extension": ".png"
+    },
+    {
+      "id": "example-source-160",
+      "name": "Artboard 5.jpg",
+      "group": "Realestate",
+      "mime": "image/jpeg",
+      "size": 519692,
+      "extension": ".jpg"
+    },
+    {
+      "id": "example-source-161",
+      "name": "Artboard 6.png",
+      "group": "semi collage",
+      "mime": "image/png",
+      "size": 1871643,
+      "extension": ".png"
+    },
+    {
+      "id": "example-source-162",
+      "name": "Post 4.png",
+      "group": "Realestate",
+      "mime": "image/png",
+      "size": 2539258,
+      "extension": ".png"
+    },
+    {
+      "id": "example-source-163",
+      "name": "Artboard 1 (2).jpg",
+      "group": "Marketing",
+      "mime": "image/jpeg",
+      "size": 634230,
+      "extension": ".jpg"
+    },
+    {
+      "id": "example-source-164",
+      "name": "Artboard 8.jpg",
+      "group": "automotive",
+      "mime": "image/jpeg",
+      "size": 329336,
+      "extension": ".jpg"
+    },
+    {
+      "id": "example-source-165",
+      "name": "Buy bjaj now.mp4",
+      "group": "Motion",
+      "mime": "video/mp4",
+      "size": 19727280,
+      "extension": ".mp4"
+    },
+    {
+      "id": "example-source-166",
+      "name": "Artboard 2 (1).png",
+      "group": "Cafe",
+      "mime": "image/png",
+      "size": 3003034,
+      "extension": ".png"
+    },
+    {
+      "id": "example-source-167",
+      "name": "POST 5.png",
+      "group": "Cafe",
+      "mime": "image/png",
+      "size": 2257757,
+      "extension": ".png"
+    },
+    {
+      "id": "example-source-168",
+      "name": "علامات تقولك.png",
+      "group": "Moto",
+      "mime": "image/png",
+      "size": 1630000,
+      "extension": ".png"
+    },
+    {
+      "id": "example-source-169",
+      "name": "Artboard 1.png",
+      "group": "Realestate",
+      "mime": "image/png",
+      "size": 2014028,
+      "extension": ".png"
+    },
+    {
+      "id": "example-source-170",
+      "name": "1.jpg",
+      "group": "Realestate",
+      "mime": "image/jpeg",
+      "size": 598750,
+      "extension": ".jpg"
+    },
+    {
+      "id": "example-source-171",
+      "name": "Artboard 1 (1).png",
+      "group": "automotive",
+      "mime": "image/png",
+      "size": 2256237,
+      "extension": ".png"
+    },
+    {
+      "id": "example-source-172",
+      "name": "Artboard 2.jpg",
+      "group": "automotive",
+      "mime": "image/jpeg",
+      "size": 248555,
+      "extension": ".jpg"
+    },
+    {
+      "id": "example-source-173",
+      "name": "Artboard 7 (1).jpg",
+      "group": "Marketing",
+      "mime": "image/jpeg",
+      "size": 487984,
+      "extension": ".jpg"
+    },
+    {
+      "id": "example-source-174",
+      "name": "Artboard 5 (1).jpg",
+      "group": "Marketing",
+      "mime": "image/jpeg",
+      "size": 554651,
+      "extension": ".jpg"
+    },
+    {
+      "id": "example-source-175",
+      "name": "Artboard 6 (1).jpg",
+      "group": "Marketing",
+      "mime": "image/jpeg",
+      "size": 589337,
+      "extension": ".jpg"
+    },
+    {
+      "id": "example-source-176",
+      "name": "50% OFF.mp4",
+      "group": "Motion",
+      "mime": "video/mp4",
+      "size": 44670108,
+      "extension": ".mp4"
+    },
+    {
+      "id": "example-source-177",
+      "name": "Artboard 1 (2).jpg",
+      "group": "Realestate",
+      "mime": "image/jpeg",
+      "size": 535081,
+      "extension": ".jpg"
+    },
+    {
+      "id": "example-source-178",
+      "name": "Artboard 2 (2).jpg",
+      "group": "Realestate",
+      "mime": "image/jpeg",
+      "size": 561382,
+      "extension": ".jpg"
+    },
+    {
+      "id": "example-source-179",
+      "name": "Artboard 7.jpg",
+      "group": "Marketing",
+      "mime": "image/jpeg",
+      "size": 598062,
+      "extension": ".jpg"
+    },
+    {
+      "id": "example-source-180",
+      "name": "ستوري اليوم الوطني السعودي copy.jpg",
+      "group": "Marketing",
+      "mime": "image/jpeg",
+      "size": 1180769,
+      "extension": ".jpg"
+    },
+    {
+      "id": "example-source-181",
+      "name": "Artboard 4 (2).jpg",
+      "group": "Marketing",
+      "mime": "image/jpeg",
+      "size": 521028,
+      "extension": ".jpg"
+    },
+    {
+      "id": "example-source-182",
+      "name": "Artboard 3.jpg",
+      "group": "Realestate",
+      "mime": "image/jpeg",
+      "size": 575795,
+      "extension": ".jpg"
+    },
+    {
+      "id": "example-source-183",
+      "name": "From our hands to yours it’s copy.jpg",
+      "group": "automotive",
+      "mime": "image/jpeg",
+      "size": 722806,
+      "extension": ".jpg"
+    },
+    {
+      "id": "example-source-184",
+      "name": "Wikmedia services.mp4",
+      "group": "Motion",
+      "mime": "video/mp4",
+      "size": 8404825,
+      "extension": ".mp4"
+    },
+    {
+      "id": "example-source-185",
+      "name": "Artboard 5.png",
+      "group": "Cafe",
+      "mime": "image/png",
+      "size": 3504700,
+      "extension": ".png"
+    },
+    {
+      "id": "example-source-186",
+      "name": "Artboard 3.png",
+      "group": "Marketing",
+      "mime": "image/png",
+      "size": 1841658,
+      "extension": ".png"
+    },
+    {
+      "id": "example-source-187",
+      "name": "Drive With Confidence copy.jpg",
+      "group": "automotive",
+      "mime": "image/jpeg",
+      "size": 469374,
+      "extension": ".jpg"
+    },
+    {
+      "id": "example-source-188",
+      "name": "Artboard 3 (2).jpg",
+      "group": "Realestate",
+      "mime": "image/jpeg",
+      "size": 592135,
+      "extension": ".jpg"
+    },
+    {
+      "id": "example-source-189",
+      "name": "Artboard 11 (1).jpg",
+      "group": "automotive",
+      "mime": "image/jpeg",
+      "size": 357113,
+      "extension": ".jpg"
+    },
+    {
+      "id": "example-source-190",
+      "name": "Artboard 1 (1).jpg",
+      "group": "Realestate",
+      "mime": "image/jpeg",
+      "size": 718930,
+      "extension": ".jpg"
+    },
+    {
+      "id": "example-source-191",
+      "name": "UGC made for your market copy.jpg",
+      "group": "semi collage",
+      "mime": "image/jpeg",
+      "size": 2139711,
+      "extension": ".jpg"
+    },
+    {
+      "id": "example-source-192",
+      "name": "Artboard 2.jpg",
+      "group": "Realestate",
+      "mime": "image/jpeg",
+      "size": 611983,
+      "extension": ".jpg"
+    },
+    {
+      "id": "example-source-193",
+      "name": "Artboard 2 (1).jpg",
+      "group": "Realestate",
+      "mime": "image/jpeg",
+      "size": 682910,
+      "extension": ".jpg"
+    },
+    {
+      "id": "example-source-194",
+      "name": "Artboard 5.png",
+      "group": "Realestate",
+      "mime": "image/png",
+      "size": 721557,
+      "extension": ".png"
+    },
+    {
+      "id": "example-source-195",
+      "name": "38-Why-does-McDonald’s-barely-need-to-show-the-burger_04.gif",
+      "group": "Carousel · McDonald's",
+      "mime": "image/gif",
+      "size": 126689,
+      "extension": ".gif"
+    },
+    {
+      "id": "example-source-196",
+      "name": "Post 2.png",
+      "group": "Realestate",
+      "mime": "image/png",
+      "size": 2241131,
+      "extension": ".png"
+    },
+    {
+      "id": "example-source-197",
+      "name": "Artboard 5.png",
+      "group": "Cafe",
+      "mime": "image/png",
+      "size": 3176572,
+      "extension": ".png"
+    },
+    {
+      "id": "example-source-198",
+      "name": "Artboard 8 (1).jpg",
+      "group": "automotive",
+      "mime": "image/jpeg",
+      "size": 354792,
+      "extension": ".jpg"
+    },
+    {
+      "id": "example-source-199",
+      "name": "4.jpg",
+      "group": "Coffee Beans",
+      "mime": "image/jpeg",
+      "size": 618831,
+      "extension": ".jpg"
+    },
+    {
+      "id": "example-source-200",
+      "name": "Trusted by Thousands. Every Day..jpg",
+      "group": "automotive",
+      "mime": "image/jpeg",
+      "size": 759733,
+      "extension": ".jpg"
+    },
+    {
+      "id": "example-source-201",
+      "name": "Artboard 1 (1).png",
+      "group": "Cafe",
+      "mime": "image/png",
+      "size": 3268204,
+      "extension": ".png"
+    },
+    {
+      "id": "example-source-202",
+      "name": "expand smart, deliver faster.mp4",
+      "group": "Motion",
+      "mime": "video/mp4",
+      "size": 14462662,
+      "extension": ".mp4"
+    },
+    {
+      "id": "example-source-203",
+      "name": "Artboard 3 (1).png",
+      "group": "Cafe",
+      "mime": "image/png",
+      "size": 3132119,
+      "extension": ".png"
+    },
+    {
+      "id": "example-source-204",
+      "name": "Artboard 3 (2).jpg",
+      "group": "Marketing",
+      "mime": "image/jpeg",
+      "size": 649847,
+      "extension": ".jpg"
+    },
+    {
+      "id": "example-source-205",
+      "name": "Artboard 6.png",
+      "group": "Cafe",
+      "mime": "image/png",
+      "size": 3198087,
+      "extension": ".png"
+    },
+    {
+      "id": "example-source-206",
+      "name": "4 (1).jpg",
+      "group": "Realestate",
+      "mime": "image/jpeg",
+      "size": 597065,
+      "extension": ".jpg"
+    },
+    {
+      "id": "example-source-207",
+      "name": "Artboard 15.jpg",
+      "group": "automotive",
+      "mime": "image/jpeg",
+      "size": 354711,
+      "extension": ".jpg"
+    },
+    {
+      "id": "example-source-208",
+      "name": "Artboard 3.jpg",
+      "group": "automotive",
+      "mime": "image/jpeg",
+      "size": 380893,
+      "extension": ".jpg"
+    },
+    {
+      "id": "example-source-209",
+      "name": "Artboard 2.png",
+      "group": "Cafe",
+      "mime": "image/png",
+      "size": 2288994,
+      "extension": ".png"
+    },
+    {
+      "id": "example-source-210",
+      "name": "Artboard 1.jpg",
+      "group": "Marketing",
+      "mime": "image/jpeg",
+      "size": 692538,
+      "extension": ".jpg"
+    }
+  ]
+}

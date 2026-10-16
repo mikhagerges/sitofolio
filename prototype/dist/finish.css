@@ -1,0 +1,19 @@
+/* The fade is anchored to the scene, not its moving portrait. */
+.cinema-foreground{
+  inset:0 0 -2px;
+  transform:none;
+  background:linear-gradient(to top,#090b0e 0%,#090b0e 5%,rgba(9,11,14,.94) 12%,rgba(9,11,14,.62) 23%,rgba(9,11,14,0) 42%),linear-gradient(90deg,transparent 43%,#080b0d1c 58%,transparent 76%);
+}
+.cinema-hero{clip-path:inset(0)}
+/* Native pointer: exact hit position, no trailing animation or second cursor. */
+@media (hover:hover) and (pointer:fine){
+  :root{--creative-cursor:url('assets/creative-cursor.svg') 9 8,auto;--creative-cursor-link:url('assets/creative-cursor-link.svg') 16 6,pointer}
+  body,body *{cursor:var(--creative-cursor)!important}
+  :is(button,a[href],summary,select,[role=button],[role=checkbox],[role=switch],[data-action],[data-section],[data-direct-key],[data-client-control],[data-direct-project],[data-direct-media],[data-direct-open],[data-direct-close],[data-direct-mode],input[type=checkbox],input[type=radio],input[type=file],input[type=color],label:has(input[type=file]),label:has(input[type=checkbox]),label:has(input[type=radio])),
+  :is(button,a[href],summary,[role=button],[role=checkbox],[role=switch],[data-action],[data-section],[data-direct-key],[data-client-control],[data-direct-project],[data-direct-media],[data-direct-open],[data-direct-close],[data-direct-mode],label:has(input[type=file]),label:has(input[type=checkbox]),label:has(input[type=radio])) *{cursor:var(--creative-cursor-link)!important}
+  /* Edit targets keep the arrow; visitor interactions retain the themed hand. */
+  .preview-canvas .direct-canvas,.preview-canvas .direct-canvas *{cursor:var(--creative-cursor)!important}
+  input:not([type=checkbox]):not([type=radio]):not([type=file]):not([type=range]):not([type=color]),textarea,[contenteditable=true],[contenteditable=true] *{cursor:text!important}
+  body :is(button,input,select):disabled,body :is(button,input,select):disabled *,body [aria-disabled=true],body [aria-disabled=true] *{cursor:not-allowed!important}
+  [draggable=true]:active{cursor:grabbing!important}
+}

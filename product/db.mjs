@@ -1,0 +1,32 @@
+import { DatabaseSync } from 'node:sqlite';
+import path from 'node:path';
+import {config} from './config.mjs';
+export const db=new DatabaseSync(path.join(config.data,'sitofolio.sqlite'));
+db.exec(`PRAGMA busy_timeout=5000; PRAGMA journal_mode=WAL; PRAGMA foreign_keys=ON;
+CREATE TABLE IF NOT EXISTS users(id TEXT PRIMARY KEY,email TEXT UNIQUE NOT NULL,password TEXT,name TEXT NOT NULL,plan TEXT NOT NULL DEFAULT 'free',verified INTEGER NOT NULL DEFAULT 0,created INTEGER NOT NULL);
+CREATE TABLE IF NOT EXISTS sessions(token TEXT PRIMARY KEY,user_id TEXT NOT NULL REFERENCES users(id),expires INTEGER NOT NULL);
+CREATE TABLE IF NOT EXISTS workspaces(user_id TEXT PRIMARY KEY REFERENCES users(id),data TEXT NOT NULL,revision INTEGER NOT NULL DEFAULT 0,updated INTEGER NOT NULL);
+CREATE TABLE IF NOT EXISTS jobs(id TEXT PRIMARY KEY,user_id TEXT NOT NULL REFERENCES users(id),status TEXT NOT NULL,stage TEXT NOT NULL,progress INTEGER DEFAULT 0,manifest TEXT NOT NULL DEFAULT '[]',result TEXT,revision INTEGER DEFAULT 0,error TEXT,ai INTEGER DEFAULT 0,attempts INTEGER DEFAULT 0,created INTEGER NOT NULL,updated INTEGER NOT NULL,committed TEXT);
+CREATE TABLE IF NOT EXISTS drive_sources(job_id TEXT PRIMARY KEY,selection TEXT NOT NULL,completed TEXT NOT NULL DEFAULT '[]',notes TEXT NOT NULL DEFAULT '[]',finished INTEGER NOT NULL DEFAULT 0);
+CREATE TABLE IF NOT EXISTS assets(id TEXT PRIMARY KEY,user_id TEXT NOT NULL REFERENCES users(id),job_id TEXT REFERENCES jobs(id),file TEXT NOT NULL,thumb TEXT NOT NULL,mime TEXT NOT NULL,name TEXT NOT NULL,bytes INTEGER NOT NULL);
+CREATE TABLE IF NOT EXISTS usage(id INTEGER PRIMARY KEY,user_id TEXT NOT NULL,job_id TEXT,day TEXT NOT NULL,month TEXT NOT NULL,model TEXT NOT NULL,created INTEGER NOT NULL);
+CREATE TABLE IF NOT EXISTS publications(user_id TEXT PRIMARY KEY REFERENCES users(id),slug TEXT UNIQUE NOT NULL,data TEXT NOT NULL,revision INTEGER NOT NULL,updated INTEGER NOT NULL);
+CREATE TABLE IF NOT EXISTS reviews(token TEXT PRIMARY KEY,user_id TEXT NOT NULL,data TEXT NOT NULL,expires INTEGER NOT NULL);
+CREATE TABLE IF NOT EXISTS events(id INTEGER PRIMARY KEY,user_id TEXT NOT NULL,kind TEXT NOT NULL,project TEXT,source TEXT,day TEXT NOT NULL);
+CREATE TABLE IF NOT EXISTS inquiries(id TEXT PRIMARY KEY,user_id TEXT NOT NULL,name TEXT NOT NULL,email TEXT NOT NULL,message TEXT NOT NULL,created INTEGER NOT NULL);
+CREATE TABLE IF NOT EXISTS tokens(hash TEXT PRIMARY KEY,user_id TEXT NOT NULL,kind TEXT NOT NULL,expires INTEGER NOT NULL);
+CREATE TABLE IF NOT EXISTS oauth(state TEXT PRIMARY KEY,user_id TEXT,session_hash TEXT,verifier TEXT NOT NULL,kind TEXT NOT NULL,expires INTEGER NOT NULL);
+CREATE TABLE IF NOT EXISTS integrations(user_id TEXT PRIMARY KEY,refresh TEXT NOT NULL,scope TEXT NOT NULL);
+CREATE TABLE IF NOT EXISTS billing(user_id TEXT PRIMARY KEY,customer TEXT,subscription TEXT,status TEXT);
+CREATE TABLE IF NOT EXISTS webhook_events(id TEXT PRIMARY KEY,created INTEGER NOT NULL);
+CREATE TABLE IF NOT EXISTS limits(key TEXT PRIMARY KEY,count INTEGER NOT NULL,until INTEGER NOT NULL);
+CREATE TABLE IF NOT EXISTS domains(user_id TEXT PRIMARY KEY,hostname TEXT UNIQUE NOT NULL,challenge TEXT NOT NULL,verified INTEGER DEFAULT 0);
+CREATE TABLE IF NOT EXISTS published_assets(asset_id TEXT NOT NULL,user_id TEXT NOT NULL,PRIMARY KEY(asset_id,user_id));
+CREATE TABLE IF NOT EXISTS project_passwords(user_id TEXT NOT NULL,project_id TEXT NOT NULL,password TEXT NOT NULL,PRIMARY KEY(user_id,project_id));
+CREATE TABLE IF NOT EXISTS project_grants(token TEXT PRIMARY KEY,user_id TEXT NOT NULL,project_id TEXT NOT NULL,expires INTEGER NOT NULL);
+`);
+export const get=(sql,...args)=>db.prepare(sql).get(...args);
+export const all=(sql,...args)=>db.prepare(sql).all(...args);
+export const run=(sql,...args)=>db.prepare(sql).run(...args);
+export function transaction(fn){db.exec('BEGIN IMMEDIATE');try{const value=fn();db.exec('COMMIT');return value}catch(e){db.exec('ROLLBACK');throw e}}
+export function rate(key,max,ms){const now=Date.now();return transaction(()=>{const r=get('SELECT * FROM limits WHERE key=?',key);if(!r||r.until<now){run('INSERT OR REPLACE INTO limits VALUES(?,1,?)',key,now+ms);return true}if(r.count>=max)return false;run('UPDATE limits SET count=count+1 WHERE key=?',key);return true})}
